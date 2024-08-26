@@ -1,0 +1,3449 @@
+[
+    {
+        "City": "Bakersfield",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 25.642857142857142,
+        "Carbon Monoxide AQI": 17.678571428571427,
+        "Sulfur Dioxide AQI": 8.642857142857142,
+        "Nitrogen Dioxide AQI": 46.035714285714285
+    },
+    {
+        "City": "Bakersfield",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 43.647551319648095,
+        "Carbon Monoxide AQI": 12.666524926686217,
+        "Sulfur Dioxide AQI": 7.30800586510264,
+        "Nitrogen Dioxide AQI": 49.131055718475075
+    },
+    {
+        "City": "Benicia",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 34.4636798088411,
+        "Carbon Monoxide AQI": 3.5448028673835124,
+        "Sulfur Dioxide AQI": 7.027598566308244,
+        "Nitrogen Dioxide AQI": 13.337514934289127
+    },
+    {
+        "City": "Benicia",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 36.85524348041033,
+        "Carbon Monoxide AQI": 3.6839760227413176,
+        "Sulfur Dioxide AQI": 6.586271783463107,
+        "Nitrogen Dioxide AQI": 14.09530342355704
+    },
+    {
+        "City": "Berkeley",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 18.708333333333332,
+        "Carbon Monoxide AQI": 9.166666666666666,
+        "Sulfur Dioxide AQI": 5.416666666666667,
+        "Nitrogen Dioxide AQI": 30.958333333333332
+    },
+    {
+        "City": "Berkeley",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 23.905068020905063,
+        "Carbon Monoxide AQI": 4.994601585535957,
+        "Sulfur Dioxide AQI": 3.708885313487649,
+        "Nitrogen Dioxide AQI": 23.75194704874905
+    },
+    {
+        "City": "Berkeley",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 22.60085765488991,
+        "Carbon Monoxide AQI": 5.675441628264209,
+        "Sulfur Dioxide AQI": 3.450953661034306,
+        "Nitrogen Dioxide AQI": 22.000889656938043
+    },
+    {
+        "City": "Berkeley",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 23.92004608294931,
+        "Carbon Monoxide AQI": 5.137980030721966,
+        "Sulfur Dioxide AQI": 2.4700716845878135,
+        "Nitrogen Dioxide AQI": 21.86794674859191
+    },
+    {
+        "City": "Burbank",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 42.959825732295144,
+        "Carbon Monoxide AQI": 22.057356939809665,
+        "Sulfur Dioxide AQI": 2.383985292300087,
+        "Nitrogen Dioxide AQI": 60.01156222963787
+    },
+    {
+        "City": "Burbank",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 37.10559267793139,
+        "Carbon Monoxide AQI": 19.288238607270866,
+        "Sulfur Dioxide AQI": 2.81636968766001,
+        "Nitrogen Dioxide AQI": 58.84167306707629
+    },
+    {
+        "City": "Burbank",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 41.99433149504062,
+        "Carbon Monoxide AQI": 18.30655553042928,
+        "Sulfur Dioxide AQI": 4.9976587403450585,
+        "Nitrogen Dioxide AQI": 57.36861672038257
+    },
+    {
+        "City": "Burbank",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 49.88398937532002,
+        "Carbon Monoxide AQI": 17.014948156682028,
+        "Sulfur Dioxide AQI": 3.4724718381976447,
+        "Nitrogen Dioxide AQI": 53.20083845366103
+    },
+    {
+        "City": "Burbank",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 49.84296981496647,
+        "Carbon Monoxide AQI": 13.513142570567487,
+        "Sulfur Dioxide AQI": 5.30718286677686,
+        "Nitrogen Dioxide AQI": 47.68308525096623
+    },
+    {
+        "City": "Burbank",
+        "State": "California",
+        "Year": 2005,
+        "Ozone AQI": 40.355922840600265,
+        "Carbon Monoxide AQI": 12.76982157627319,
+        "Sulfur Dioxide AQI": 4.207643566111308,
+        "Nitrogen Dioxide AQI": 42.38494771357674
+    },
+    {
+        "City": "Burbank",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 46.54103302611367,
+        "Carbon Monoxide AQI": 11.817127496159754,
+        "Sulfur Dioxide AQI": 2.106778033794163,
+        "Nitrogen Dioxide AQI": 40.663908090117765
+    },
+    {
+        "City": "Burbank",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 43.2210701484895,
+        "Carbon Monoxide AQI": 10.179806707629288,
+        "Sulfur Dioxide AQI": 2.5598118279569895,
+        "Nitrogen Dioxide AQI": 41.40597158218126
+    },
+    {
+        "City": "Burbank",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 47.51704362872328,
+        "Carbon Monoxide AQI": 9.420803979730564,
+        "Sulfur Dioxide AQI": 2.318291929304165,
+        "Nitrogen Dioxide AQI": 42.67246323075022
+    },
+    {
+        "City": "Burbank",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 46.1977790578597,
+        "Carbon Monoxide AQI": 10.149174347158217,
+        "Sulfur Dioxide AQI": 1.4114183307731694,
+        "Nitrogen Dioxide AQI": 41.15589477726574
+    },
+    {
+        "City": "Burbank",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 42.129907514080905,
+        "Carbon Monoxide AQI": 7.787554403481823,
+        "Sulfur Dioxide AQI": 1.799422363031234,
+        "Nitrogen Dioxide AQI": 35.99647657450077
+    },
+    {
+        "City": "Burbank",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 38.45336753701072,
+        "Carbon Monoxide AQI": 9.050153624486459,
+        "Sulfur Dioxide AQI": 0.8103559259331373,
+        "Nitrogen Dioxide AQI": 34.827758718043576
+    },
+    {
+        "City": "Burbank",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 45.3069945943625,
+        "Carbon Monoxide AQI": 7.70131625342276,
+        "Sulfur Dioxide AQI": 0.7845058607502989,
+        "Nitrogen Dioxide AQI": 30.542499262417227
+    },
+    {
+        "City": "Burbank",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 49.2308927143238,
+        "Carbon Monoxide AQI": 7.508882710642241,
+        "Sulfur Dioxide AQI": 0.7190431757880439,
+        "Nitrogen Dioxide AQI": 31.18761663556385
+    },
+    {
+        "City": "Burbank",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 50.00013440860215,
+        "Carbon Monoxide AQI": 6.765994623655914,
+        "Sulfur Dioxide AQI": 0.6493279569892473,
+        "Nitrogen Dioxide AQI": 31.9546146953405
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 48.60549140918743,
+        "Carbon Monoxide AQI": 25.37852463207403,
+        "Sulfur Dioxide AQI": 7.716843193210875,
+        "Nitrogen Dioxide AQI": 43.02865477799242
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 53.95859399332592,
+        "Carbon Monoxide AQI": 20.010885428253616,
+        "Sulfur Dioxide AQI": 0.772313681868743,
+        "Nitrogen Dioxide AQI": 35.39480978865406
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 35.947544747211644,
+        "Carbon Monoxide AQI": 22.175913588904475,
+        "Sulfur Dioxide AQI": 0.16097725906631938,
+        "Nitrogen Dioxide AQI": 31.069350942808168
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 29.26122119815668,
+        "Carbon Monoxide AQI": 16.669179467485918,
+        "Sulfur Dioxide AQI": 0.05319124423963134,
+        "Nitrogen Dioxide AQI": 22.396683307731696
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 39.96341923124459,
+        "Carbon Monoxide AQI": 15.691088864170064,
+        "Sulfur Dioxide AQI": 0.189259671239649,
+        "Nitrogen Dioxide AQI": 32.9881380546286
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2005,
+        "Ozone AQI": 43.4319293262355,
+        "Carbon Monoxide AQI": 13.692254731889049,
+        "Sulfur Dioxide AQI": 0.08943844130162261,
+        "Nitrogen Dioxide AQI": 33.27973564101206
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 36.8392669544644,
+        "Carbon Monoxide AQI": 13.318190626269049,
+        "Sulfur Dioxide AQI": 4.084447004608294,
+        "Nitrogen Dioxide AQI": 32.824492381305504
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 45.87427763652736,
+        "Carbon Monoxide AQI": 14.271666931511204,
+        "Sulfur Dioxide AQI": 3.690531366421244,
+        "Nitrogen Dioxide AQI": 32.105144384413016
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 49.48303979730565,
+        "Carbon Monoxide AQI": 14.513369021134594,
+        "Sulfur Dioxide AQI": 3.1022501853911755,
+        "Nitrogen Dioxide AQI": 33.424782937832155
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 43.74619815668203,
+        "Carbon Monoxide AQI": 15.64228750640041,
+        "Sulfur Dioxide AQI": 2.8903929851510495,
+        "Nitrogen Dioxide AQI": 31.734011776753714
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 40.91515020080649,
+        "Carbon Monoxide AQI": 13.888153897764576,
+        "Sulfur Dioxide AQI": 2.3730794255182466,
+        "Nitrogen Dioxide AQI": 29.852113764989184
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 39.81817445971715,
+        "Carbon Monoxide AQI": 14.218032712714304,
+        "Sulfur Dioxide AQI": 2.2465984581633913,
+        "Nitrogen Dioxide AQI": 30.21690844765789
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 45.8942226163954,
+        "Carbon Monoxide AQI": 10.200720900414078,
+        "Sulfur Dioxide AQI": 2.44710761018325,
+        "Nitrogen Dioxide AQI": 30.759181108993868
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 50.20986726087532,
+        "Carbon Monoxide AQI": 9.893395314363056,
+        "Sulfur Dioxide AQI": 2.6022249368015498,
+        "Nitrogen Dioxide AQI": 30.328927775853177
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 47.14062353903694,
+        "Carbon Monoxide AQI": 7.799355228299828,
+        "Sulfur Dioxide AQI": 2.6069463923952,
+        "Nitrogen Dioxide AQI": 26.718822074177965
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2015,
+        "Ozone AQI": 48.49285074244752,
+        "Carbon Monoxide AQI": 8.127538976287587,
+        "Sulfur Dioxide AQI": 2.692460758867878,
+        "Nitrogen Dioxide AQI": 25.792541536451438
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2016,
+        "Ozone AQI": 47.97837787135618,
+        "Carbon Monoxide AQI": 7.335702367710154,
+        "Sulfur Dioxide AQI": 2.180932738315942,
+        "Nitrogen Dioxide AQI": 26.619239410632627
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2017,
+        "Ozone AQI": 49.851267921146956,
+        "Carbon Monoxide AQI": 6.667662570404506,
+        "Sulfur Dioxide AQI": 1.883959293394777,
+        "Nitrogen Dioxide AQI": 27.030338581669227
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2018,
+        "Ozone AQI": 46.23057611444708,
+        "Carbon Monoxide AQI": 6.933933420223742,
+        "Sulfur Dioxide AQI": 1.4794880448106253,
+        "Nitrogen Dioxide AQI": 27.182048596564723
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2019,
+        "Ozone AQI": 52.61478208166388,
+        "Carbon Monoxide AQI": 4.904774327063103,
+        "Sulfur Dioxide AQI": 1.1975710903853285,
+        "Nitrogen Dioxide AQI": 23.120550099226648
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2020,
+        "Ozone AQI": 51.755241052668744,
+        "Carbon Monoxide AQI": 6.098017197238555,
+        "Sulfur Dioxide AQI": 1.4449200610908062,
+        "Nitrogen Dioxide AQI": 24.853508307290287
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2021,
+        "Ozone AQI": 48.6889656938044,
+        "Carbon Monoxide AQI": 5.864176907322069,
+        "Sulfur Dioxide AQI": 1.50426267281106,
+        "Nitrogen Dioxide AQI": 22.50800051203277
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2022,
+        "Ozone AQI": 45.676927919750504,
+        "Carbon Monoxide AQI": 6.276017316017317,
+        "Sulfur Dioxide AQI": 1.339372876227715,
+        "Nitrogen Dioxide AQI": 22.966268910301167
+    },
+    {
+        "City": "Calexico",
+        "State": "California",
+        "Year": 2023,
+        "Ozone AQI": 36.90399385560676,
+        "Carbon Monoxide AQI": 6.754224270353302,
+        "Sulfur Dioxide AQI": 0.6635944700460829,
+        "Nitrogen Dioxide AQI": 22.811443932411674
+    },
+    {
+        "City": "Chula Vista",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 40.80187939300843,
+        "Carbon Monoxide AQI": 13.423471465810175,
+        "Sulfur Dioxide AQI": 9.614907717730299,
+        "Nitrogen Dioxide AQI": 30.010316296606618
+    },
+    {
+        "City": "Chula Vista",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 43.42652329749104,
+        "Carbon Monoxide AQI": 12.728584229390682,
+        "Sulfur Dioxide AQI": 10.636696994761511,
+        "Nitrogen Dioxide AQI": 30.40152329749104
+    },
+    {
+        "City": "Chula Vista",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 42.24022017409114,
+        "Carbon Monoxide AQI": 11.712147977470558,
+        "Sulfur Dioxide AQI": 8.460650281618024,
+        "Nitrogen Dioxide AQI": 32.14996799795187
+    },
+    {
+        "City": "Chula Vista",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 30.55193579285626,
+        "Carbon Monoxide AQI": 11.377130012182848,
+        "Sulfur Dioxide AQI": 7.263127240143369,
+        "Nitrogen Dioxide AQI": 32.02297813266946
+    },
+    {
+        "City": "Chula Vista",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 42.3992615251514,
+        "Carbon Monoxide AQI": 11.007635026572736,
+        "Sulfur Dioxide AQI": 6.48510072920529,
+        "Nitrogen Dioxide AQI": 29.482857495983193
+    },
+    {
+        "City": "Chula Vista",
+        "State": "California",
+        "Year": 2005,
+        "Ozone AQI": 44.07528581139538,
+        "Carbon Monoxide AQI": 10.215861097868885,
+        "Sulfur Dioxide AQI": 5.792968818969932,
+        "Nitrogen Dioxide AQI": 29.063655825696983
+    },
+    {
+        "City": "Chula Vista",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 43.39455325140809,
+        "Carbon Monoxide AQI": 9.188184843830005,
+        "Sulfur Dioxide AQI": 6.364144905273938,
+        "Nitrogen Dioxide AQI": 30.838703277009728
+    },
+    {
+        "City": "Chula Vista",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 45.13651964951054,
+        "Carbon Monoxide AQI": 9.735901010708163,
+        "Sulfur Dioxide AQI": 4.932859095867511,
+        "Nitrogen Dioxide AQI": 28.346391535066147
+    },
+    {
+        "City": "Chula Vista",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 44.44732109751576,
+        "Carbon Monoxide AQI": 8.745266345321962,
+        "Sulfur Dioxide AQI": 4.299706463972314,
+        "Nitrogen Dioxide AQI": 28.029328883945123
+    },
+    {
+        "City": "Chula Vista",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 43.9249800876145,
+        "Carbon Monoxide AQI": 8.305465949820787,
+        "Sulfur Dioxide AQI": 3.72594583831143,
+        "Nitrogen Dioxide AQI": 25.318180007964955
+    },
+    {
+        "City": "Chula Vista",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 39.85483870967742,
+        "Carbon Monoxide AQI": 11.161290322580644,
+        "Sulfur Dioxide AQI": 3.096774193548387,
+        "Nitrogen Dioxide AQI": 36.403225806451616
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 31.811431769181123,
+        "Carbon Monoxide AQI": 10.882392988093768,
+        "Sulfur Dioxide AQI": 5.162729850725772,
+        "Nitrogen Dioxide AQI": 26.43983713041926
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 34.485010240655406,
+        "Carbon Monoxide AQI": 9.142217101894522,
+        "Sulfur Dioxide AQI": 4.719822068612391,
+        "Nitrogen Dioxide AQI": 26.123284690220174
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 35.43044034818228,
+        "Carbon Monoxide AQI": 8.324129544290834,
+        "Sulfur Dioxide AQI": 4.884626216077829,
+        "Nitrogen Dioxide AQI": 24.592191500256018
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 34.853457324717056,
+        "Carbon Monoxide AQI": 8.001787479915956,
+        "Sulfur Dioxide AQI": 3.87737830393559,
+        "Nitrogen Dioxide AQI": 23.09694148701379
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 33.04410085279941,
+        "Carbon Monoxide AQI": 7.214567648264153,
+        "Sulfur Dioxide AQI": 4.547224759154096,
+        "Nitrogen Dioxide AQI": 21.565265532202773
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2005,
+        "Ozone AQI": 32.94144905273937,
+        "Carbon Monoxide AQI": 6.562192780337941,
+        "Sulfur Dioxide AQI": 4.162928827444957,
+        "Nitrogen Dioxide AQI": 20.195628520225295
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 38.70666282642089,
+        "Carbon Monoxide AQI": 5.716801075268816,
+        "Sulfur Dioxide AQI": 4.30013440860215,
+        "Nitrogen Dioxide AQI": 19.58663594470046
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 34.16552099334357,
+        "Carbon Monoxide AQI": 5.247676651305684,
+        "Sulfur Dioxide AQI": 3.7739695340501793,
+        "Nitrogen Dioxide AQI": 18.78604710701485
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 37.92943702879743,
+        "Carbon Monoxide AQI": 5.285678531701891,
+        "Sulfur Dioxide AQI": 3.384856630824373,
+        "Nitrogen Dioxide AQI": 18.376455320726734
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 33.35983102918587,
+        "Carbon Monoxide AQI": 4.484146185355863,
+        "Sulfur Dioxide AQI": 2.7218958013312853,
+        "Nitrogen Dioxide AQI": 16.840476190476192
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 31.1433093649028,
+        "Carbon Monoxide AQI": 4.2976162888217955,
+        "Sulfur Dioxide AQI": 1.9095144296131503,
+        "Nitrogen Dioxide AQI": 15.007569587901903
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 31.70730926779314,
+        "Carbon Monoxide AQI": 4.872126216077829,
+        "Sulfur Dioxide AQI": 1.5796082949308756,
+        "Nitrogen Dioxide AQI": 15.539183307731696
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 35.39951180323816,
+        "Carbon Monoxide AQI": 4.4615993078729455,
+        "Sulfur Dioxide AQI": 1.2170652576937337,
+        "Nitrogen Dioxide AQI": 14.981232233345693
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 29.567997951868918,
+        "Carbon Monoxide AQI": 4.632373271889401,
+        "Sulfur Dioxide AQI": 1.3328853046594984,
+        "Nitrogen Dioxide AQI": 15.741724270353302
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 34.928878648233486,
+        "Carbon Monoxide AQI": 4.798553507424475,
+        "Sulfur Dioxide AQI": 1.6178699436763955,
+        "Nitrogen Dioxide AQI": 13.521255760368662
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2015,
+        "Ozone AQI": 35.52620813249289,
+        "Carbon Monoxide AQI": 4.455788839451242,
+        "Sulfur Dioxide AQI": 1.2604211910941612,
+        "Nitrogen Dioxide AQI": 12.797077440542402
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2016,
+        "Ozone AQI": 34.305122976146336,
+        "Carbon Monoxide AQI": 3.7627178346310717,
+        "Sulfur Dioxide AQI": 1.5827091830428872,
+        "Nitrogen Dioxide AQI": 11.358870967741936
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2017,
+        "Ozone AQI": 35.29924721336011,
+        "Carbon Monoxide AQI": 3.98053463113947,
+        "Sulfur Dioxide AQI": 1.6453001299775494,
+        "Nitrogen Dioxide AQI": 12.009302503052503
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2018,
+        "Ozone AQI": 29.19874485760192,
+        "Carbon Monoxide AQI": 4.223478026731642,
+        "Sulfur Dioxide AQI": 1.4475965358334657,
+        "Nitrogen Dioxide AQI": 11.958411241767749
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2019,
+        "Ozone AQI": 36.3708973374296,
+        "Carbon Monoxide AQI": 4.394898873527906,
+        "Sulfur Dioxide AQI": 1.1997439836149513,
+        "Nitrogen Dioxide AQI": 10.88805683563748
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2020,
+        "Ozone AQI": 35.878643623230204,
+        "Carbon Monoxide AQI": 5.802016300690753,
+        "Sulfur Dioxide AQI": 1.4784390063033,
+        "Nitrogen Dioxide AQI": 10.391806739999176
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2021,
+        "Ozone AQI": 32.86148476261101,
+        "Carbon Monoxide AQI": 4.3458397337429595,
+        "Sulfur Dioxide AQI": 1.2931513409961686,
+        "Nitrogen Dioxide AQI": 9.339657158747814
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2022,
+        "Ozone AQI": 29.079109945795153,
+        "Carbon Monoxide AQI": 3.2067239613680107,
+        "Sulfur Dioxide AQI": 1.3044957360029663,
+        "Nitrogen Dioxide AQI": 9.428988117308473
+    },
+    {
+        "City": "Concord",
+        "State": "California",
+        "Year": 2023,
+        "Ozone AQI": 29.222789115646258,
+        "Carbon Monoxide AQI": 2.5058042571867456,
+        "Sulfur Dioxide AQI": 0.8235023041474655,
+        "Nitrogen Dioxide AQI": 8.639675224928682
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 36.47470955382524,
+        "Carbon Monoxide AQI": 14.218087999011246,
+        "Sulfur Dioxide AQI": 5.4692837720924485,
+        "Nitrogen Dioxide AQI": 33.614927079471016
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 37.682051117938215,
+        "Carbon Monoxide AQI": 11.317729134664617,
+        "Sulfur Dioxide AQI": 4.3693420378904255,
+        "Nitrogen Dioxide AQI": 28.82504053592763
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 39.63478215333054,
+        "Carbon Monoxide AQI": 10.044365312107248,
+        "Sulfur Dioxide AQI": 5.541056300330493,
+        "Nitrogen Dioxide AQI": 31.378019247777313
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 49.734657725786754,
+        "Carbon Monoxide AQI": 10.230920625073852,
+        "Sulfur Dioxide AQI": 4.055743875300327,
+        "Nitrogen Dioxide AQI": 31.144178088936155
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 44.921803863158836,
+        "Carbon Monoxide AQI": 8.539610615330163,
+        "Sulfur Dioxide AQI": 4.984500630610892,
+        "Nitrogen Dioxide AQI": 28.382199357310594
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2005,
+        "Ozone AQI": 39.27323109146821,
+        "Carbon Monoxide AQI": 6.254135562921641,
+        "Sulfur Dioxide AQI": 4.137633210864677,
+        "Nitrogen Dioxide AQI": 24.584107820327404
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 36.85644343579126,
+        "Carbon Monoxide AQI": 6.2569574807302715,
+        "Sulfur Dioxide AQI": 4.1611185176051935,
+        "Nitrogen Dioxide AQI": 25.95595863151964
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 37.31978181714741,
+        "Carbon Monoxide AQI": 5.712533851055357,
+        "Sulfur Dioxide AQI": 2.93352506115947,
+        "Nitrogen Dioxide AQI": 24.681308954884226
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 41.77960388085527,
+        "Carbon Monoxide AQI": 6.026220491904585,
+        "Sulfur Dioxide AQI": 3.3373316030156963,
+        "Nitrogen Dioxide AQI": 24.98750154492646
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 39.281102435000285,
+        "Carbon Monoxide AQI": 5.216051516185924,
+        "Sulfur Dioxide AQI": 2.7767978039483414,
+        "Nitrogen Dioxide AQI": 23.7260695795642
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 35.70054403481823,
+        "Carbon Monoxide AQI": 4.534479006656426,
+        "Sulfur Dioxide AQI": 1.4227662570404505,
+        "Nitrogen Dioxide AQI": 21.390809011776753
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 33.11126533833775,
+        "Carbon Monoxide AQI": 4.81608961582941,
+        "Sulfur Dioxide AQI": 0.9163465481681692,
+        "Nitrogen Dioxide AQI": 22.150319274649384
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 36.521143388190104,
+        "Carbon Monoxide AQI": 3.5072594906020935,
+        "Sulfur Dioxide AQI": 0.2816389055265585,
+        "Nitrogen Dioxide AQI": 18.79267847465845
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 37.909491042664015,
+        "Carbon Monoxide AQI": 4.789910250760737,
+        "Sulfur Dioxide AQI": 0.5060912501980689,
+        "Nitrogen Dioxide AQI": 20.563189934692904
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 40.085304659498206,
+        "Carbon Monoxide AQI": 4.257590885816692,
+        "Sulfur Dioxide AQI": 0.6313300051203278,
+        "Nitrogen Dioxide AQI": 20.53245647721454
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2015,
+        "Ozone AQI": 42.394538032656314,
+        "Carbon Monoxide AQI": 4.58494225408204,
+        "Sulfur Dioxide AQI": 0.2852469135802469,
+        "Nitrogen Dioxide AQI": 20.45136200716846
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2016,
+        "Ozone AQI": 41.31049444691454,
+        "Carbon Monoxide AQI": 4.415017795412679,
+        "Sulfur Dioxide AQI": 0.16469558572821458,
+        "Nitrogen Dioxide AQI": 18.461320777472984
+    },
+    {
+        "City": "Costa Mesa",
+        "State": "California",
+        "Year": 2017,
+        "Ozone AQI": 46.5558115719406,
+        "Carbon Monoxide AQI": 3.013146441372248,
+        "Sulfur Dioxide AQI": 0.08251408090117768,
+        "Nitrogen Dioxide AQI": 15.975870455709165
+    },
+    {
+        "City": "Cupertino",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 31.54759918427883,
+        "Carbon Monoxide AQI": 5.173572487949574,
+        "Sulfur Dioxide AQI": 1.9360585836114201,
+        "Nitrogen Dioxide AQI": 20.012588060808305
+    },
+    {
+        "City": "Cupertino",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 30.75606317425005,
+        "Carbon Monoxide AQI": 5.025971979448064,
+        "Sulfur Dioxide AQI": 2.7206388933029646,
+        "Nitrogen Dioxide AQI": 16.859732816003675
+    },
+    {
+        "City": "Cupertino",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 31.172712478886,
+        "Carbon Monoxide AQI": 5.205677433087518,
+        "Sulfur Dioxide AQI": 2.84111598621239,
+        "Nitrogen Dioxide AQI": 16.129937241653963
+    },
+    {
+        "City": "Cupertino",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 30.652994288186168,
+        "Carbon Monoxide AQI": 5.552936905203313,
+        "Sulfur Dioxide AQI": 1.4677684199374967,
+        "Nitrogen Dioxide AQI": 16.626144790507972
+    },
+    {
+        "City": "El Cajon",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 40.62834542790049,
+        "Carbon Monoxide AQI": 5.545090885816692,
+        "Sulfur Dioxide AQI": 0.01621863799283154,
+        "Nitrogen Dioxide AQI": 20.543983394247576
+    },
+    {
+        "City": "El Cajon",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 41.746740459824444,
+        "Carbon Monoxide AQI": 5.277690107445391,
+        "Sulfur Dioxide AQI": 0.008154121863799282,
+        "Nitrogen Dioxide AQI": 20.521943626142736
+    },
+    {
+        "City": "El Cajon",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 40.68419011958041,
+        "Carbon Monoxide AQI": 5.111200394426443,
+        "Sulfur Dioxide AQI": 0.006021505376344087,
+        "Nitrogen Dioxide AQI": 20.230252020391788
+    },
+    {
+        "City": "El Cajon",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 39.202790061622416,
+        "Carbon Monoxide AQI": 5.394286022311425,
+        "Sulfur Dioxide AQI": 0.008198924731182795,
+        "Nitrogen Dioxide AQI": 22.779633620689655
+    },
+    {
+        "City": "El Cajon",
+        "State": "California",
+        "Year": 2015,
+        "Ozone AQI": 39.80321547072381,
+        "Carbon Monoxide AQI": 4.499054409933164,
+        "Sulfur Dioxide AQI": 0.01371585712520084,
+        "Nitrogen Dioxide AQI": 19.13505730149223
+    },
+    {
+        "City": "El Cajon",
+        "State": "California",
+        "Year": 2016,
+        "Ozone AQI": 44.44184201582004,
+        "Carbon Monoxide AQI": 4.628759836031805,
+        "Sulfur Dioxide AQI": 0.002777777777777778,
+        "Nitrogen Dioxide AQI": 17.83595249866106
+    },
+    {
+        "City": "El Cajon",
+        "State": "California",
+        "Year": 2017,
+        "Ozone AQI": 47.34541346646185,
+        "Carbon Monoxide AQI": 4.756305683563748,
+        "Sulfur Dioxide AQI": 0.002976190476190476,
+        "Nitrogen Dioxide AQI": 16.984395801331285
+    },
+    {
+        "City": "El Cajon",
+        "State": "California",
+        "Year": 2018,
+        "Ozone AQI": 44.733589349718386,
+        "Carbon Monoxide AQI": 4.57750256016385,
+        "Sulfur Dioxide AQI": 0.021953405017921146,
+        "Nitrogen Dioxide AQI": 14.41691628264209
+    },
+    {
+        "City": "El Cajon",
+        "State": "California",
+        "Year": 2019,
+        "Ozone AQI": 43.51926523297491,
+        "Carbon Monoxide AQI": 4.405049923195084,
+        "Sulfur Dioxide AQI": 0.0,
+        "Nitrogen Dioxide AQI": 14.236155913978495
+    },
+    {
+        "City": "El Cajon",
+        "State": "California",
+        "Year": 2020,
+        "Ozone AQI": 46.399345916759366,
+        "Carbon Monoxide AQI": 4.735334206216784,
+        "Sulfur Dioxide AQI": 0.0026881720430107525,
+        "Nitrogen Dioxide AQI": 14.653838562909407
+    },
+    {
+        "City": "El Cajon",
+        "State": "California",
+        "Year": 2021,
+        "Ozone AQI": 44.63714499796953,
+        "Carbon Monoxide AQI": 4.3325310750922545,
+        "Sulfur Dioxide AQI": 0.0026881720430107525,
+        "Nitrogen Dioxide AQI": 10.802339018662712
+    },
+    {
+        "City": "El Cajon",
+        "State": "California",
+        "Year": 2022,
+        "Ozone AQI": 43.27379319172979,
+        "Carbon Monoxide AQI": 4.242259918427883,
+        "Sulfur Dioxide AQI": 0.0,
+        "Nitrogen Dioxide AQI": 13.751927847520173
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 24.9375,
+        "Carbon Monoxide AQI": 8.0,
+        "Sulfur Dioxide AQI": 2.25,
+        "Nitrogen Dioxide AQI": 13.5625
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 27.408617934201917,
+        "Carbon Monoxide AQI": 4.422830027056946,
+        "Sulfur Dioxide AQI": 0.5930030748718179,
+        "Nitrogen Dioxide AQI": 8.29908706215714
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 26.357983738545474,
+        "Carbon Monoxide AQI": 4.929133340395855,
+        "Sulfur Dioxide AQI": 0.5789576601868037,
+        "Nitrogen Dioxide AQI": 8.667108515634656
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 26.073774677134892,
+        "Carbon Monoxide AQI": 4.437253228651078,
+        "Sulfur Dioxide AQI": 0.6710061443932411,
+        "Nitrogen Dioxide AQI": 8.095049638732435
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 27.33380056323605,
+        "Carbon Monoxide AQI": 3.4002048131080387,
+        "Sulfur Dioxide AQI": 1.4083333333333332,
+        "Nitrogen Dioxide AQI": 7.014426523297491
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 27.347769837689192,
+        "Carbon Monoxide AQI": 3.862578819030432,
+        "Sulfur Dioxide AQI": 0.32724479821254016,
+        "Nitrogen Dioxide AQI": 7.585378734169056
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 27.07523595610915,
+        "Carbon Monoxide AQI": 3.3970549287568197,
+        "Sulfur Dioxide AQI": 0.09310344827586206,
+        "Nitrogen Dioxide AQI": 5.948603434015003
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 25.043674725617223,
+        "Carbon Monoxide AQI": 4.127100725750796,
+        "Sulfur Dioxide AQI": 0.0313689641354438,
+        "Nitrogen Dioxide AQI": 7.13504363409693
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 25.63097798259089,
+        "Carbon Monoxide AQI": 4.18929211469534,
+        "Sulfur Dioxide AQI": 0.10940860215053765,
+        "Nitrogen Dioxide AQI": 6.244962877624168
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2015,
+        "Ozone AQI": 25.441969619388974,
+        "Carbon Monoxide AQI": 4.687090373783922,
+        "Sulfur Dioxide AQI": 0.05152329749103943,
+        "Nitrogen Dioxide AQI": 6.5986884083658275
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2016,
+        "Ozone AQI": 24.47617414411074,
+        "Carbon Monoxide AQI": 3.2911413916697563,
+        "Sulfur Dioxide AQI": 0.14756828574959832,
+        "Nitrogen Dioxide AQI": 6.19519218885181
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2017,
+        "Ozone AQI": 25.434223079787596,
+        "Carbon Monoxide AQI": 3.660743870824516,
+        "Sulfur Dioxide AQI": 0.025068927488282326,
+        "Nitrogen Dioxide AQI": 6.068918447144253
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2018,
+        "Ozone AQI": 23.672976267062285,
+        "Carbon Monoxide AQI": 2.899394422781519,
+        "Sulfur Dioxide AQI": 0.01881720430107527,
+        "Nitrogen Dioxide AQI": 6.222422658981799
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2019,
+        "Ozone AQI": 26.00910394265233,
+        "Carbon Monoxide AQI": 3.2496814018319395,
+        "Sulfur Dioxide AQI": 0.14493229788928713,
+        "Nitrogen Dioxide AQI": 4.9229111907606535
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2020,
+        "Ozone AQI": 24.853673217154864,
+        "Carbon Monoxide AQI": 3.8892368063280185,
+        "Sulfur Dioxide AQI": 0.023521505376344082,
+        "Nitrogen Dioxide AQI": 4.826243047830923
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2021,
+        "Ozone AQI": 23.584014204495293,
+        "Carbon Monoxide AQI": 2.827990315518124,
+        "Sulfur Dioxide AQI": 0.013799283154121864,
+        "Nitrogen Dioxide AQI": 3.9346489485671907
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2022,
+        "Ozone AQI": 21.351072030962925,
+        "Carbon Monoxide AQI": 2.6756067504660166,
+        "Sulfur Dioxide AQI": 0.014705882352941178,
+        "Nitrogen Dioxide AQI": 4.558199443457192
+    },
+    {
+        "City": "Eureka",
+        "State": "California",
+        "Year": 2023,
+        "Ozone AQI": 28.832225621060438,
+        "Carbon Monoxide AQI": 3.2787588060808304,
+        "Sulfur Dioxide AQI": 0.06573275862068965,
+        "Nitrogen Dioxide AQI": 5.308055246570263
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 65.58557435951762,
+        "Carbon Monoxide AQI": 7.29934119921606,
+        "Sulfur Dioxide AQI": 3.5970944347334783,
+        "Nitrogen Dioxide AQI": 36.1322081854618
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 60.31740271377368,
+        "Carbon Monoxide AQI": 6.218221966205838,
+        "Sulfur Dioxide AQI": 1.9624743983614952,
+        "Nitrogen Dioxide AQI": 37.58457501280082
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 47.790296979006655,
+        "Carbon Monoxide AQI": 6.031344939409455,
+        "Sulfur Dioxide AQI": 1.335825226147807,
+        "Nitrogen Dioxide AQI": 37.666188769414575
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 57.26436891961085,
+        "Carbon Monoxide AQI": 5.467313108038915,
+        "Sulfur Dioxide AQI": 1.304115463389657,
+        "Nitrogen Dioxide AQI": 34.49709741423451
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 67.47091022313491,
+        "Carbon Monoxide AQI": 4.841038713480315,
+        "Sulfur Dioxide AQI": 1.1113323921165967,
+        "Nitrogen Dioxide AQI": 33.9501965621821
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 63.945403604012476,
+        "Carbon Monoxide AQI": 4.518381481869385,
+        "Sulfur Dioxide AQI": 0.6807771842852488,
+        "Nitrogen Dioxide AQI": 32.78289798910767
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 60.36466328374931,
+        "Carbon Monoxide AQI": 3.427623402085768,
+        "Sulfur Dioxide AQI": 0.5828716832749091,
+        "Nitrogen Dioxide AQI": 32.15296229556982
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2015,
+        "Ozone AQI": 61.346945084485405,
+        "Carbon Monoxide AQI": 3.6459242191500256,
+        "Sulfur Dioxide AQI": 0.5590200972862264,
+        "Nitrogen Dioxide AQI": 31.757250384024577
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2016,
+        "Ozone AQI": 59.28526488377249,
+        "Carbon Monoxide AQI": 4.0485463958582235,
+        "Sulfur Dioxide AQI": 0.24790797338999046,
+        "Nitrogen Dioxide AQI": 29.941319180826042
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2017,
+        "Ozone AQI": 55.73874335342077,
+        "Carbon Monoxide AQI": 5.411407663423792,
+        "Sulfur Dioxide AQI": 0.1829357530163982,
+        "Nitrogen Dioxide AQI": 30.283773747160847
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2018,
+        "Ozone AQI": 64.17450231297562,
+        "Carbon Monoxide AQI": 5.253846204777795,
+        "Sulfur Dioxide AQI": 0.31271871744619245,
+        "Nitrogen Dioxide AQI": 30.06701780638099
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2019,
+        "Ozone AQI": 62.1787598518772,
+        "Carbon Monoxide AQI": 4.804981664609028,
+        "Sulfur Dioxide AQI": 0.29945696683738954,
+        "Nitrogen Dioxide AQI": 28.5065810539726
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2020,
+        "Ozone AQI": 69.22745785915974,
+        "Carbon Monoxide AQI": 4.895613834935303,
+        "Sulfur Dioxide AQI": 0.20263564454331973,
+        "Nitrogen Dioxide AQI": 31.329001834897273
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2021,
+        "Ozone AQI": 64.32207974567078,
+        "Carbon Monoxide AQI": 5.052805586454085,
+        "Sulfur Dioxide AQI": 0.17216248506571086,
+        "Nitrogen Dioxide AQI": 31.691501874510774
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2022,
+        "Ozone AQI": 64.54579859909454,
+        "Carbon Monoxide AQI": 4.529339441088003,
+        "Sulfur Dioxide AQI": 0.25203591037186335,
+        "Nitrogen Dioxide AQI": 30.345496597811973
+    },
+    {
+        "City": "Fontana",
+        "State": "California",
+        "Year": 2023,
+        "Ozone AQI": 49.97560163850486,
+        "Carbon Monoxide AQI": 3.008141321044547,
+        "Sulfur Dioxide AQI": 0.0,
+        "Nitrogen Dioxide AQI": 25.025025601638504
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 67.36512259591632,
+        "Carbon Monoxide AQI": 9.28500666550327,
+        "Sulfur Dioxide AQI": 3.635324626326324,
+        "Nitrogen Dioxide AQI": 27.41829872498909
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 63.72817204301075,
+        "Carbon Monoxide AQI": 4.287680491551459,
+        "Sulfur Dioxide AQI": 2.2329723502304146,
+        "Nitrogen Dioxide AQI": 27.81864055299539
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 67.75769581773127,
+        "Carbon Monoxide AQI": 6.7277650363787735,
+        "Sulfur Dioxide AQI": 2.4208007094947446,
+        "Nitrogen Dioxide AQI": 28.50887475578278
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 60.365207373271886,
+        "Carbon Monoxide AQI": 6.557565284178188,
+        "Sulfur Dioxide AQI": 3.414183307731695,
+        "Nitrogen Dioxide AQI": 26.5862071172555
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 53.34929675499232,
+        "Carbon Monoxide AQI": 5.462179179467486,
+        "Sulfur Dioxide AQI": 1.900909658218126,
+        "Nitrogen Dioxide AQI": 24.257687692012286
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 59.05032231580062,
+        "Carbon Monoxide AQI": 4.205537008412426,
+        "Sulfur Dioxide AQI": 2.0661748503628368,
+        "Nitrogen Dioxide AQI": 19.99497845128546
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 65.09039649634755,
+        "Carbon Monoxide AQI": 6.107839157505453,
+        "Sulfur Dioxide AQI": 1.2220398807718051,
+        "Nitrogen Dioxide AQI": 22.74674650525596
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 52.21635304659498,
+        "Carbon Monoxide AQI": 7.269092421915002,
+        "Sulfur Dioxide AQI": 0.8919162826420891,
+        "Nitrogen Dioxide AQI": 23.519124423963135
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 57.603184314140925,
+        "Carbon Monoxide AQI": 6.1311192330102235,
+        "Sulfur Dioxide AQI": 0.938805683563748,
+        "Nitrogen Dioxide AQI": 22.993496521708423
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2015,
+        "Ozone AQI": 53.45803336011206,
+        "Carbon Monoxide AQI": 5.672098842678422,
+        "Sulfur Dioxide AQI": 1.1129466124912455,
+        "Nitrogen Dioxide AQI": 19.695143909899887
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2016,
+        "Ozone AQI": 57.6613510161202,
+        "Carbon Monoxide AQI": 5.879729240602433,
+        "Sulfur Dioxide AQI": 1.0695788530465948,
+        "Nitrogen Dioxide AQI": 19.811710101170615
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2017,
+        "Ozone AQI": 59.84426680846036,
+        "Carbon Monoxide AQI": 5.870501496711174,
+        "Sulfur Dioxide AQI": 1.0980783016266888,
+        "Nitrogen Dioxide AQI": 21.079729213438892
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2018,
+        "Ozone AQI": 53.85301724137931,
+        "Carbon Monoxide AQI": 5.995746817451489,
+        "Sulfur Dioxide AQI": 1.1768052465702632,
+        "Nitrogen Dioxide AQI": 21.262398807316774
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2019,
+        "Ozone AQI": 46.98146363277064,
+        "Carbon Monoxide AQI": 5.18775949671389,
+        "Sulfur Dioxide AQI": 0.9470103465932164,
+        "Nitrogen Dioxide AQI": 18.24435811531195
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2020,
+        "Ozone AQI": 46.14208829916839,
+        "Carbon Monoxide AQI": 6.733882444338508,
+        "Sulfur Dioxide AQI": 1.0111531331108639,
+        "Nitrogen Dioxide AQI": 18.34843565160584
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2021,
+        "Ozone AQI": 44.785521867969685,
+        "Carbon Monoxide AQI": 5.7515177948764284,
+        "Sulfur Dioxide AQI": 1.013279083345497,
+        "Nitrogen Dioxide AQI": 17.324518405377038
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2022,
+        "Ozone AQI": 40.63474462365591,
+        "Carbon Monoxide AQI": 6.9487903225806456,
+        "Sulfur Dioxide AQI": 0.5711021505376344,
+        "Nitrogen Dioxide AQI": 19.979939516129033
+    },
+    {
+        "City": "Fresno",
+        "State": "California",
+        "Year": 2023,
+        "Ozone AQI": 30.166282642089097,
+        "Carbon Monoxide AQI": 6.350614439324116,
+        "Sulfur Dioxide AQI": 0.034562211981566816,
+        "Nitrogen Dioxide AQI": 20.127112135176652
+    },
+    {
+        "City": "Goleta",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 35.719695826050106,
+        "Carbon Monoxide AQI": 6.35340832847785,
+        "Sulfur Dioxide AQI": 2.463120177622402,
+        "Nitrogen Dioxide AQI": 21.819686556491337
+    },
+    {
+        "City": "Goleta",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 34.71372247823861,
+        "Carbon Monoxide AQI": 5.863172043010753,
+        "Sulfur Dioxide AQI": 2.658531746031746,
+        "Nitrogen Dioxide AQI": 19.4083013312852
+    },
+    {
+        "City": "Goleta",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 35.29988479262673,
+        "Carbon Monoxide AQI": 4.646876600102407,
+        "Sulfur Dioxide AQI": 1.8451932923707117,
+        "Nitrogen Dioxide AQI": 20.041263440860217
+    },
+    {
+        "City": "Goleta",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 35.67974677652097,
+        "Carbon Monoxide AQI": 4.732214425359587,
+        "Sulfur Dioxide AQI": 1.5028313084764697,
+        "Nitrogen Dioxide AQI": 18.809010613042872
+    },
+    {
+        "City": "Goleta",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 38.98736868125077,
+        "Carbon Monoxide AQI": 4.670491904585342,
+        "Sulfur Dioxide AQI": 1.8502286491163022,
+        "Nitrogen Dioxide AQI": 17.235724879495738
+    },
+    {
+        "City": "Goleta",
+        "State": "California",
+        "Year": 2005,
+        "Ozone AQI": 37.19147323206463,
+        "Carbon Monoxide AQI": 3.516680889799169,
+        "Sulfur Dioxide AQI": 1.237942339420834,
+        "Nitrogen Dioxide AQI": 15.994566763383967
+    },
+    {
+        "City": "Goleta",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 38.23556707629289,
+        "Carbon Monoxide AQI": 0.484274193548387,
+        "Sulfur Dioxide AQI": 1.4368407578084998,
+        "Nitrogen Dioxide AQI": 16.460496671786995
+    },
+    {
+        "City": "Goleta",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 36.08998483595258,
+        "Carbon Monoxide AQI": 2.3297628894403086,
+        "Sulfur Dioxide AQI": 0.8565825751309623,
+        "Nitrogen Dioxide AQI": 16.381858285084093
+    },
+    {
+        "City": "Goleta",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 36.857622667161046,
+        "Carbon Monoxide AQI": 1.8537163206031393,
+        "Sulfur Dioxide AQI": 0.38447117167222844,
+        "Nitrogen Dioxide AQI": 15.269231244592758
+    },
+    {
+        "City": "Goleta",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 32.74193548387097,
+        "Carbon Monoxide AQI": 1.9151305683563749,
+        "Sulfur Dioxide AQI": 0.5049923195084486,
+        "Nitrogen Dioxide AQI": 18.801459293394775
+    },
+    {
+        "City": "Hawthorne",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 33.98757166081972,
+        "Carbon Monoxide AQI": 18.839783044788607,
+        "Sulfur Dioxide AQI": 10.657721304773585,
+        "Nitrogen Dioxide AQI": 46.49799444777198
+    },
+    {
+        "City": "Hawthorne",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 40.365924219150024,
+        "Carbon Monoxide AQI": 17.23157962109575,
+        "Sulfur Dioxide AQI": 12.295897337429595,
+        "Nitrogen Dioxide AQI": 44.84297235023041
+    },
+    {
+        "City": "Hawthorne",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 37.784536867215685,
+        "Carbon Monoxide AQI": 15.97979225854401,
+        "Sulfur Dioxide AQI": 6.4134141882739355,
+        "Nitrogen Dioxide AQI": 43.25620227520648
+    },
+    {
+        "City": "Hawthorne",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 34.389157706093194,
+        "Carbon Monoxide AQI": 15.14276113671275,
+        "Sulfur Dioxide AQI": 4.4120775729646695,
+        "Nitrogen Dioxide AQI": 43.614151305683556
+    },
+    {
+        "City": "Hawthorne",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 28.440860215053764,
+        "Carbon Monoxide AQI": 20.46088246199481,
+        "Sulfur Dioxide AQI": 4.913236929922136,
+        "Nitrogen Dioxide AQI": 49.715239154616235
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 34.77279053445627,
+        "Carbon Monoxide AQI": 4.9009883115278,
+        "Sulfur Dioxide AQI": 0.7664375761428041,
+        "Nitrogen Dioxide AQI": 12.918979642283313
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 33.77411674347158,
+        "Carbon Monoxide AQI": 5.506944444444444,
+        "Sulfur Dioxide AQI": 2.6646761392729137,
+        "Nitrogen Dioxide AQI": 13.335362263184843
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 42.68084066471163,
+        "Carbon Monoxide AQI": 5.9641670157799185,
+        "Sulfur Dioxide AQI": 2.462721686915235,
+        "Nitrogen Dioxide AQI": 10.772699343667085
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 33.849758677393545,
+        "Carbon Monoxide AQI": 5.924401689029053,
+        "Sulfur Dioxide AQI": 2.237152298171486,
+        "Nitrogen Dioxide AQI": 13.199197376748822
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 32.7964349718382,
+        "Carbon Monoxide AQI": 5.7563556067588335,
+        "Sulfur Dioxide AQI": 1.679358678955453,
+        "Nitrogen Dioxide AQI": 12.638824884792626
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2005,
+        "Ozone AQI": 31.907584485407067,
+        "Carbon Monoxide AQI": 4.449199948796723,
+        "Sulfur Dioxide AQI": 1.4549603174603174,
+        "Nitrogen Dioxide AQI": 11.734254992319508
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 33.42005071772869,
+        "Carbon Monoxide AQI": 3.591850071508025,
+        "Sulfur Dioxide AQI": 1.0300430813778978,
+        "Nitrogen Dioxide AQI": 11.421043001924538
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 34.18271987868762,
+        "Carbon Monoxide AQI": 5.089132432680819,
+        "Sulfur Dioxide AQI": 1.4161834083877096,
+        "Nitrogen Dioxide AQI": 11.551788285390437
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 35.67431061948118,
+        "Carbon Monoxide AQI": 3.5749121108501902,
+        "Sulfur Dioxide AQI": 1.9280071135280628,
+        "Nitrogen Dioxide AQI": 9.343482126917426
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 33.246396569380444,
+        "Carbon Monoxide AQI": 2.0124295954941114,
+        "Sulfur Dioxide AQI": 1.5757296466973887,
+        "Nitrogen Dioxide AQI": 9.320174091141833
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 33.12347670250896,
+        "Carbon Monoxide AQI": 1.3322068612391194,
+        "Sulfur Dioxide AQI": 1.4371863799283153,
+        "Nitrogen Dioxide AQI": 9.431214797747055
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 31.76559169880916,
+        "Carbon Monoxide AQI": 3.576449863324168,
+        "Sulfur Dioxide AQI": 2.3209825892806983,
+        "Nitrogen Dioxide AQI": 10.089496105180197
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 34.9719621992147,
+        "Carbon Monoxide AQI": 2.5548774516794537,
+        "Sulfur Dioxide AQI": 1.9842816804997006,
+        "Nitrogen Dioxide AQI": 8.494474154568705
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 34.446921402969785,
+        "Carbon Monoxide AQI": 3.0595814132104455,
+        "Sulfur Dioxide AQI": 2.772708653353815,
+        "Nitrogen Dioxide AQI": 9.031246799795186
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 34.04697900665642,
+        "Carbon Monoxide AQI": 3.060759088581669,
+        "Sulfur Dioxide AQI": 2.008083717357911,
+        "Nitrogen Dioxide AQI": 8.987999231950845
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2015,
+        "Ozone AQI": 32.941641065028165,
+        "Carbon Monoxide AQI": 4.143823604710701,
+        "Sulfur Dioxide AQI": 0.7201484895033282,
+        "Nitrogen Dioxide AQI": 9.293951612903227
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2016,
+        "Ozone AQI": 32.469685452972435,
+        "Carbon Monoxide AQI": 2.834609442590533,
+        "Sulfur Dioxide AQI": 0.8510752688172043,
+        "Nitrogen Dioxide AQI": 8.315801507848226
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2017,
+        "Ozone AQI": 31.15639373093791,
+        "Carbon Monoxide AQI": 4.084092477570739,
+        "Sulfur Dioxide AQI": 0.35879165831830623,
+        "Nitrogen Dioxide AQI": 8.472770152941962
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2018,
+        "Ozone AQI": 24.371971119400282,
+        "Carbon Monoxide AQI": 4.19741437390287,
+        "Sulfur Dioxide AQI": 0.7227973878894492,
+        "Nitrogen Dioxide AQI": 8.091504948875711
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2019,
+        "Ozone AQI": 18.637716627302883,
+        "Carbon Monoxide AQI": 2.051218987324171,
+        "Sulfur Dioxide AQI": 2.0093148272515746,
+        "Nitrogen Dioxide AQI": 7.556054271077002
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2020,
+        "Ozone AQI": 14.68965485790662,
+        "Carbon Monoxide AQI": 1.207263722644238,
+        "Sulfur Dioxide AQI": 1.789394149465525,
+        "Nitrogen Dioxide AQI": 7.16942214744634
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2021,
+        "Ozone AQI": 14.284726371810706,
+        "Carbon Monoxide AQI": 2.151537009534651,
+        "Sulfur Dioxide AQI": 1.3989523835951498,
+        "Nitrogen Dioxide AQI": 6.313790410720242
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2022,
+        "Ozone AQI": 30.53305931921523,
+        "Carbon Monoxide AQI": 0.8283602150537633,
+        "Sulfur Dioxide AQI": 1.0016729686084525,
+        "Nitrogen Dioxide AQI": 6.626885385621944
+    },
+    {
+        "City": "Lompoc",
+        "State": "California",
+        "Year": 2023,
+        "Ozone AQI": 34.582644058450505,
+        "Carbon Monoxide AQI": 0.4941871151548571,
+        "Sulfur Dioxide AQI": 0.9945317525962687,
+        "Nitrogen Dioxide AQI": 5.616717213491406
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 29.109742306266224,
+        "Carbon Monoxide AQI": 13.50839204053887,
+        "Sulfur Dioxide AQI": 13.166533802990978,
+        "Nitrogen Dioxide AQI": 48.99004449388209
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 30.022420634920636,
+        "Carbon Monoxide AQI": 14.144105222734254,
+        "Sulfur Dioxide AQI": 13.37642089093702,
+        "Nitrogen Dioxide AQI": 48.09476446492576
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 30.319356869184457,
+        "Carbon Monoxide AQI": 14.786383194731359,
+        "Sulfur Dioxide AQI": 11.06693491004114,
+        "Nitrogen Dioxide AQI": 45.523940136306656
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 30.670129680574007,
+        "Carbon Monoxide AQI": 13.70536888418536,
+        "Sulfur Dioxide AQI": 11.12001316506516,
+        "Nitrogen Dioxide AQI": 44.01191351470059
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 32.18893369175627,
+        "Carbon Monoxide AQI": 9.939298294401185,
+        "Sulfur Dioxide AQI": 16.040166543072548,
+        "Nitrogen Dioxide AQI": 42.12816246446669
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2005,
+        "Ozone AQI": 28.707738095238096,
+        "Carbon Monoxide AQI": 11.9949948796723,
+        "Sulfur Dioxide AQI": 10.357366871479774,
+        "Nitrogen Dioxide AQI": 36.7453853046595
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 28.140622565061552,
+        "Carbon Monoxide AQI": 11.97974520804114,
+        "Sulfur Dioxide AQI": 8.642893875642825,
+        "Nitrogen Dioxide AQI": 35.00779180302322
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 29.08577203220925,
+        "Carbon Monoxide AQI": 9.994138639883095,
+        "Sulfur Dioxide AQI": 8.728254199343809,
+        "Nitrogen Dioxide AQI": 34.93977465105434
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 32.86138301816833,
+        "Carbon Monoxide AQI": 8.808015078482265,
+        "Sulfur Dioxide AQI": 8.910391175380052,
+        "Nitrogen Dioxide AQI": 34.97834940056853
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 29.202197246579896,
+        "Carbon Monoxide AQI": 8.155324819785331,
+        "Sulfur Dioxide AQI": 5.327614858260019,
+        "Nitrogen Dioxide AQI": 33.76624375809582
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 30.693118501181093,
+        "Carbon Monoxide AQI": 6.795342948104376,
+        "Sulfur Dioxide AQI": 4.558583883058703,
+        "Nitrogen Dioxide AQI": 33.88824213162468
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 31.756802438256145,
+        "Carbon Monoxide AQI": 7.973596503213351,
+        "Sulfur Dioxide AQI": 4.15571706447771,
+        "Nitrogen Dioxide AQI": 33.13158276092848
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 31.05355286851756,
+        "Carbon Monoxide AQI": 8.56400035214902,
+        "Sulfur Dioxide AQI": 3.851516653696612,
+        "Nitrogen Dioxide AQI": 32.95394135253278
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 32.39088296693398,
+        "Carbon Monoxide AQI": 8.43738500938152,
+        "Sulfur Dioxide AQI": 3.2001394704036783,
+        "Nitrogen Dioxide AQI": 31.882104210994623
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 30.172595669280728,
+        "Carbon Monoxide AQI": 8.82429069986795,
+        "Sulfur Dioxide AQI": 4.320618818551756,
+        "Nitrogen Dioxide AQI": 34.177064031045354
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2015,
+        "Ozone AQI": 29.244397282002943,
+        "Carbon Monoxide AQI": 7.2421453915847565,
+        "Sulfur Dioxide AQI": 3.7669441816241886,
+        "Nitrogen Dioxide AQI": 32.70602935803902
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2016,
+        "Ozone AQI": 30.820071684587813,
+        "Carbon Monoxide AQI": 6.479004687069203,
+        "Sulfur Dioxide AQI": 3.8432037496553626,
+        "Nitrogen Dioxide AQI": 29.607182244279016
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2017,
+        "Ozone AQI": 32.996117850687746,
+        "Carbon Monoxide AQI": 6.384130758727533,
+        "Sulfur Dioxide AQI": 3.972968827269902,
+        "Nitrogen Dioxide AQI": 30.16274146502641
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2018,
+        "Ozone AQI": 31.042964758020375,
+        "Carbon Monoxide AQI": 6.544001800942847,
+        "Sulfur Dioxide AQI": 3.0899780179034906,
+        "Nitrogen Dioxide AQI": 28.774231023888976
+    },
+    {
+        "City": "Long Beach",
+        "State": "California",
+        "Year": 2019,
+        "Ozone AQI": 31.482722832722832,
+        "Carbon Monoxide AQI": 5.844157410689668,
+        "Sulfur Dioxide AQI": 2.0272977470558113,
+        "Nitrogen Dioxide AQI": 27.39952735436606
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 36.8463440860215,
+        "Carbon Monoxide AQI": 18.481720430107526,
+        "Sulfur Dioxide AQI": 7.1365591397849455,
+        "Nitrogen Dioxide AQI": 60.39021505376344
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 33.896239338722005,
+        "Carbon Monoxide AQI": 20.016341353857914,
+        "Sulfur Dioxide AQI": 7.616877378352932,
+        "Nitrogen Dioxide AQI": 57.3908147308764
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 38.167042393139035,
+        "Carbon Monoxide AQI": 18.033811966661286,
+        "Sulfur Dioxide AQI": 6.59580762818416,
+        "Nitrogen Dioxide AQI": 50.82282608620645
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 38.75253865277734,
+        "Carbon Monoxide AQI": 16.017444607878424,
+        "Sulfur Dioxide AQI": 5.550629043500753,
+        "Nitrogen Dioxide AQI": 51.470261481350185
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 45.33885095647943,
+        "Carbon Monoxide AQI": 11.535931941705035,
+        "Sulfur Dioxide AQI": 6.52797809821196,
+        "Nitrogen Dioxide AQI": 42.58349010753152
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2005,
+        "Ozone AQI": 37.42289540903129,
+        "Carbon Monoxide AQI": 8.193076617370926,
+        "Sulfur Dioxide AQI": 8.113658926148675,
+        "Nitrogen Dioxide AQI": 35.708514711271675
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 35.823690846052436,
+        "Carbon Monoxide AQI": 7.561572135851414,
+        "Sulfur Dioxide AQI": 6.0640518341817105,
+        "Nitrogen Dioxide AQI": 37.42123528259095
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 37.16422200957432,
+        "Carbon Monoxide AQI": 7.227633738150245,
+        "Sulfur Dioxide AQI": 5.115250649917793,
+        "Nitrogen Dioxide AQI": 36.847115585537246
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 38.613768012581374,
+        "Carbon Monoxide AQI": 6.71863548904916,
+        "Sulfur Dioxide AQI": 3.465274578129361,
+        "Nitrogen Dioxide AQI": 35.187490451130394
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 35.5515865105129,
+        "Carbon Monoxide AQI": 8.543229178917317,
+        "Sulfur Dioxide AQI": 3.3572500364148694,
+        "Nitrogen Dioxide AQI": 34.070035122290264
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 33.61594551633722,
+        "Carbon Monoxide AQI": 7.411412148399475,
+        "Sulfur Dioxide AQI": 1.6948918190104827,
+        "Nitrogen Dioxide AQI": 32.34798875215926
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 34.66715917156177,
+        "Carbon Monoxide AQI": 6.697207115204788,
+        "Sulfur Dioxide AQI": 1.2420103020233457,
+        "Nitrogen Dioxide AQI": 31.540171093903258
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 36.95418732952609,
+        "Carbon Monoxide AQI": 7.7399707289635495,
+        "Sulfur Dioxide AQI": 0.9513983159195011,
+        "Nitrogen Dioxide AQI": 30.55356907804577
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 35.193344679268556,
+        "Carbon Monoxide AQI": 7.849158429636411,
+        "Sulfur Dioxide AQI": 0.8700102229149612,
+        "Nitrogen Dioxide AQI": 31.187345377835253
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 39.97402936818259,
+        "Carbon Monoxide AQI": 7.85413224022095,
+        "Sulfur Dioxide AQI": 0.8954773347918509,
+        "Nitrogen Dioxide AQI": 31.60215965336933
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2015,
+        "Ozone AQI": 42.29869098693023,
+        "Carbon Monoxide AQI": 6.373924957459903,
+        "Sulfur Dioxide AQI": 0.8505373327057915,
+        "Nitrogen Dioxide AQI": 30.93255456295331
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2016,
+        "Ozone AQI": 40.50480907945339,
+        "Carbon Monoxide AQI": 6.028854453536796,
+        "Sulfur Dioxide AQI": 0.6151270630446262,
+        "Nitrogen Dioxide AQI": 28.788486175638344
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2017,
+        "Ozone AQI": 42.85193260532031,
+        "Carbon Monoxide AQI": 6.743189108607157,
+        "Sulfur Dioxide AQI": 0.723090097953058,
+        "Nitrogen Dioxide AQI": 29.703973558449032
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2018,
+        "Ozone AQI": 38.14701713702732,
+        "Carbon Monoxide AQI": 6.184212398817504,
+        "Sulfur Dioxide AQI": 0.6539664453750716,
+        "Nitrogen Dioxide AQI": 27.349520384385603
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2019,
+        "Ozone AQI": 37.02735296254658,
+        "Carbon Monoxide AQI": 5.774179805543226,
+        "Sulfur Dioxide AQI": 0.4255399045910842,
+        "Nitrogen Dioxide AQI": 26.43869459974368
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2020,
+        "Ozone AQI": 42.562582188908685,
+        "Carbon Monoxide AQI": 6.39245630790849,
+        "Sulfur Dioxide AQI": 0.36825767919210967,
+        "Nitrogen Dioxide AQI": 26.389095093029464
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2021,
+        "Ozone AQI": 39.66504001951154,
+        "Carbon Monoxide AQI": 6.163796059669487,
+        "Sulfur Dioxide AQI": 0.31900271107343453,
+        "Nitrogen Dioxide AQI": 26.782893383035727
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2022,
+        "Ozone AQI": 43.01148609981627,
+        "Carbon Monoxide AQI": 6.319540074094154,
+        "Sulfur Dioxide AQI": 0.2436474051986386,
+        "Nitrogen Dioxide AQI": 28.849104130899672
+    },
+    {
+        "City": "Los Angeles",
+        "State": "California",
+        "Year": 2023,
+        "Ozone AQI": 38.38320532514081,
+        "Carbon Monoxide AQI": 5.145308499743984,
+        "Sulfur Dioxide AQI": 0.09906554019457246,
+        "Nitrogen Dioxide AQI": 23.975147209421404
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 15.863636363636363,
+        "Carbon Monoxide AQI": 17.227272727272727,
+        "Sulfur Dioxide AQI": 6.409090909090909,
+        "Nitrogen Dioxide AQI": 36.22727272727273
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 26.343041389768306,
+        "Carbon Monoxide AQI": 13.059975074054607,
+        "Sulfur Dioxide AQI": 5.828661214264663,
+        "Nitrogen Dioxide AQI": 30.206171746928145
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 27.84909356957466,
+        "Carbon Monoxide AQI": 15.486114200964035,
+        "Sulfur Dioxide AQI": 7.927502118756291,
+        "Nitrogen Dioxide AQI": 30.85668401398379
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 20.894736842105264,
+        "Carbon Monoxide AQI": 6.2631578947368425,
+        "Sulfur Dioxide AQI": 2.1052631578947367,
+        "Nitrogen Dioxide AQI": 28.894736842105264
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 23.14981438812084,
+        "Carbon Monoxide AQI": 6.412788018433179,
+        "Sulfur Dioxide AQI": 3.0618087557603686,
+        "Nitrogen Dioxide AQI": 24.871825396825397
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 24.26434177304589,
+        "Carbon Monoxide AQI": 7.588530907357382,
+        "Sulfur Dioxide AQI": 3.1780254074191787,
+        "Nitrogen Dioxide AQI": 24.213986439959744
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 23.00056323604711,
+        "Carbon Monoxide AQI": 8.016634664618536,
+        "Sulfur Dioxide AQI": 2.4675179211469533,
+        "Nitrogen Dioxide AQI": 25.12080773169483
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 25.469066820276495,
+        "Carbon Monoxide AQI": 7.843138760880696,
+        "Sulfur Dioxide AQI": 2.096620583717358,
+        "Nitrogen Dioxide AQI": 23.05404505888377
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2015,
+        "Ozone AQI": 25.17808499743984,
+        "Carbon Monoxide AQI": 8.304576513586525,
+        "Sulfur Dioxide AQI": 2.287728428412522,
+        "Nitrogen Dioxide AQI": 22.817716995956705
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2016,
+        "Ozone AQI": 23.987607997716452,
+        "Carbon Monoxide AQI": 7.287204833216606,
+        "Sulfur Dioxide AQI": 2.063475155130235,
+        "Nitrogen Dioxide AQI": 20.402093142390232
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2017,
+        "Ozone AQI": 25.36881260913519,
+        "Carbon Monoxide AQI": 8.518237639003768,
+        "Sulfur Dioxide AQI": 1.563268541494348,
+        "Nitrogen Dioxide AQI": 21.941313987684953
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2018,
+        "Ozone AQI": 25.273593189964156,
+        "Carbon Monoxide AQI": 8.042498719918074,
+        "Sulfur Dioxide AQI": 1.250038402457757,
+        "Nitrogen Dioxide AQI": 21.021790834613416
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2019,
+        "Ozone AQI": 26.826379006264062,
+        "Carbon Monoxide AQI": 6.2095033085948925,
+        "Sulfur Dioxide AQI": 1.2120412549315034,
+        "Nitrogen Dioxide AQI": 20.023240500418847
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2020,
+        "Ozone AQI": 26.655648251143248,
+        "Carbon Monoxide AQI": 7.147633172660981,
+        "Sulfur Dioxide AQI": 0.6544370287974292,
+        "Nitrogen Dioxide AQI": 19.970053145470278
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2021,
+        "Ozone AQI": 25.230555555555554,
+        "Carbon Monoxide AQI": 5.86402329749104,
+        "Sulfur Dioxide AQI": 0.2833653353814644,
+        "Nitrogen Dioxide AQI": 17.04206989247312
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2022,
+        "Ozone AQI": 22.637140865904303,
+        "Carbon Monoxide AQI": 6.179854355123172,
+        "Sulfur Dioxide AQI": 0.21823547818171474,
+        "Nitrogen Dioxide AQI": 18.589513284405758
+    },
+    {
+        "City": "Oakland",
+        "State": "California",
+        "Year": 2023,
+        "Ozone AQI": 27.51353861192571,
+        "Carbon Monoxide AQI": 5.331573802541544,
+        "Sulfur Dioxide AQI": 0.06749755620723362,
+        "Nitrogen Dioxide AQI": 15.42114695340502
+    },
+    {
+        "City": "Pittsburg",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 33.21242120875046,
+        "Carbon Monoxide AQI": 8.966956426207446,
+        "Sulfur Dioxide AQI": 6.928157829687307,
+        "Nitrogen Dioxide AQI": 22.84554408876804
+    },
+    {
+        "City": "Pittsburg",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 35.78362135176651,
+        "Carbon Monoxide AQI": 8.30666282642089,
+        "Sulfur Dioxide AQI": 10.761386328725038,
+        "Nitrogen Dioxide AQI": 23.40419226830517
+    },
+    {
+        "City": "Pittsburg",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 37.18323732718894,
+        "Carbon Monoxide AQI": 8.348623911930364,
+        "Sulfur Dioxide AQI": 10.935266257040452,
+        "Nitrogen Dioxide AQI": 22.923719918074756
+    },
+    {
+        "City": "Pittsburg",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 36.40972331275855,
+        "Carbon Monoxide AQI": 7.277525136862309,
+        "Sulfur Dioxide AQI": 9.37275483237418,
+        "Nitrogen Dioxide AQI": 20.59931644144495
+    },
+    {
+        "City": "Pittsburg",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 32.580011741441105,
+        "Carbon Monoxide AQI": 6.805215671734025,
+        "Sulfur Dioxide AQI": 8.560585836114202,
+        "Nitrogen Dioxide AQI": 19.227889012483008
+    },
+    {
+        "City": "Pittsburg",
+        "State": "California",
+        "Year": 2005,
+        "Ozone AQI": 32.440604198668716,
+        "Carbon Monoxide AQI": 6.089842549923195,
+        "Sulfur Dioxide AQI": 9.284222990271378,
+        "Nitrogen Dioxide AQI": 18.98654633896569
+    },
+    {
+        "City": "Pittsburg",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 36.702624167946745,
+        "Carbon Monoxide AQI": 6.136443932411674,
+        "Sulfur Dioxide AQI": 9.956041986687149,
+        "Nitrogen Dioxide AQI": 20.085675883256528
+    },
+    {
+        "City": "Pittsburg",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 33.90043522785458,
+        "Carbon Monoxide AQI": 5.222433435739887,
+        "Sulfur Dioxide AQI": 9.016589861751152,
+        "Nitrogen Dioxide AQI": 18.169098822324628
+    },
+    {
+        "City": "Pittsburg",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 34.12397107897664,
+        "Carbon Monoxide AQI": 4.884087257446546,
+        "Sulfur Dioxide AQI": 6.126347175874429,
+        "Nitrogen Dioxide AQI": 18.427351378074405
+    },
+    {
+        "City": "San Diego",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 30.025462083591865,
+        "Carbon Monoxide AQI": 17.24931181112972,
+        "Sulfur Dioxide AQI": 10.648320389251085,
+        "Nitrogen Dioxide AQI": 37.72807430119949
+    },
+    {
+        "City": "San Diego",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 34.20523126779073,
+        "Carbon Monoxide AQI": 15.098739929742642,
+        "Sulfur Dioxide AQI": 10.60787502031951,
+        "Nitrogen Dioxide AQI": 36.46123714659063
+    },
+    {
+        "City": "San Diego",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 36.171176908598476,
+        "Carbon Monoxide AQI": 13.957801270103369,
+        "Sulfur Dioxide AQI": 8.773597427776414,
+        "Nitrogen Dioxide AQI": 37.771100911942426
+    },
+    {
+        "City": "San Diego",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 36.07175174548667,
+        "Carbon Monoxide AQI": 14.128918468082466,
+        "Sulfur Dioxide AQI": 8.574671886193597,
+        "Nitrogen Dioxide AQI": 36.24360648989903
+    },
+    {
+        "City": "San Diego",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 36.12432792454285,
+        "Carbon Monoxide AQI": 14.252127228514524,
+        "Sulfur Dioxide AQI": 12.199767307380656,
+        "Nitrogen Dioxide AQI": 36.077450711537296
+    },
+    {
+        "City": "San Diego",
+        "State": "California",
+        "Year": 2005,
+        "Ozone AQI": 32.85105110056853,
+        "Carbon Monoxide AQI": 13.978611320513968,
+        "Sulfur Dioxide AQI": 10.223376031919871,
+        "Nitrogen Dioxide AQI": 37.674294892523534
+    },
+    {
+        "City": "San Diego",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 36.07773615484341,
+        "Carbon Monoxide AQI": 12.898338556773266,
+        "Sulfur Dioxide AQI": 9.864150720540826,
+        "Nitrogen Dioxide AQI": 37.58267111666624
+    },
+    {
+        "City": "San Diego",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 35.55318874810094,
+        "Carbon Monoxide AQI": 11.415956332708111,
+        "Sulfur Dioxide AQI": 6.842722761317323,
+        "Nitrogen Dioxide AQI": 33.63985817437419
+    },
+    {
+        "City": "San Diego",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 36.595607206621615,
+        "Carbon Monoxide AQI": 11.3611946024568,
+        "Sulfur Dioxide AQI": 6.71433692763341,
+        "Nitrogen Dioxide AQI": 35.815352976464794
+    },
+    {
+        "City": "San Diego",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 33.879632769004864,
+        "Carbon Monoxide AQI": 10.363906423744972,
+        "Sulfur Dioxide AQI": 6.874804236168586,
+        "Nitrogen Dioxide AQI": 33.166109694663604
+    },
+    {
+        "City": "San Diego",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 35.09536385161234,
+        "Carbon Monoxide AQI": 8.249388599351118,
+        "Sulfur Dioxide AQI": 1.2874963983701952,
+        "Nitrogen Dioxide AQI": 27.46223283647475
+    },
+    {
+        "City": "San Diego",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 37.51274961597542,
+        "Carbon Monoxide AQI": 8.21336405529954,
+        "Sulfur Dioxide AQI": 2.3890552995391707,
+        "Nitrogen Dioxide AQI": 28.029224270353307
+    },
+    {
+        "City": "San Francisco",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 21.021212772176806,
+        "Carbon Monoxide AQI": 11.236127982688977,
+        "Sulfur Dioxide AQI": 6.086094705463449,
+        "Nitrogen Dioxide AQI": 30.445923282385092
+    },
+    {
+        "City": "San Francisco",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 23.368297491039428,
+        "Carbon Monoxide AQI": 10.78700716845878,
+        "Sulfur Dioxide AQI": 5.746308243727598,
+        "Nitrogen Dioxide AQI": 29.61643369175627
+    },
+    {
+        "City": "San Francisco",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 24.473710427812208,
+        "Carbon Monoxide AQI": 10.525675670229402,
+        "Sulfur Dioxide AQI": 5.878861366167914,
+        "Nitrogen Dioxide AQI": 28.508500847502518
+    },
+    {
+        "City": "San Francisco",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 24.522241423451103,
+        "Carbon Monoxide AQI": 9.657456477214541,
+        "Sulfur Dioxide AQI": 6.079704301075268,
+        "Nitrogen Dioxide AQI": 28.59835509472606
+    },
+    {
+        "City": "San Francisco",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 25.375724157314902,
+        "Carbon Monoxide AQI": 6.951888501155321,
+        "Sulfur Dioxide AQI": 6.0007454438745995,
+        "Nitrogen Dioxide AQI": 25.622353179812425
+    },
+    {
+        "City": "San Francisco",
+        "State": "California",
+        "Year": 2005,
+        "Ozone AQI": 24.38086422985617,
+        "Carbon Monoxide AQI": 6.078448366149979,
+        "Sulfur Dioxide AQI": 4.502860401247498,
+        "Nitrogen Dioxide AQI": 23.97239474235442
+    },
+    {
+        "City": "San Francisco",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 25.564010496671784,
+        "Carbon Monoxide AQI": 7.856893241167435,
+        "Sulfur Dioxide AQI": 5.263965693804404,
+        "Nitrogen Dioxide AQI": 28.00929979518689
+    },
+    {
+        "City": "San Francisco",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 24.732770097286224,
+        "Carbon Monoxide AQI": 6.753161802355351,
+        "Sulfur Dioxide AQI": 3.7835445468509987,
+        "Nitrogen Dioxide AQI": 26.489727342549923
+    },
+    {
+        "City": "San Francisco",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 26.367117785193425,
+        "Carbon Monoxide AQI": 6.610968977876653,
+        "Sulfur Dioxide AQI": 4.033280805833642,
+        "Nitrogen Dioxide AQI": 27.10746508466197
+    },
+    {
+        "City": "San Jose",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 27.70243375495729,
+        "Carbon Monoxide AQI": 5.853211397338577,
+        "Sulfur Dioxide AQI": 0.7889600649903166,
+        "Nitrogen Dioxide AQI": 23.39330024813896
+    },
+    {
+        "City": "San Jose",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 29.424193548387095,
+        "Carbon Monoxide AQI": 5.765348182283667,
+        "Sulfur Dioxide AQI": 0.679825908858167,
+        "Nitrogen Dioxide AQI": 24.19313236047107
+    },
+    {
+        "City": "San Jose",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 28.991441656710474,
+        "Carbon Monoxide AQI": 6.231307018350029,
+        "Sulfur Dioxide AQI": 0.7545790828048893,
+        "Nitrogen Dioxide AQI": 24.593407928192875
+    },
+    {
+        "City": "San Jose",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 29.97915207569453,
+        "Carbon Monoxide AQI": 5.7938484461472965,
+        "Sulfur Dioxide AQI": 0.4458561639132644,
+        "Nitrogen Dioxide AQI": 22.976068059160383
+    },
+    {
+        "City": "San Jose",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 29.937455197132618,
+        "Carbon Monoxide AQI": 6.70615719406042,
+        "Sulfur Dioxide AQI": 0.3125320020481311,
+        "Nitrogen Dioxide AQI": 24.99681259600614
+    },
+    {
+        "City": "San Jose",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 30.43041474654378,
+        "Carbon Monoxide AQI": 5.674692780337942,
+        "Sulfur Dioxide AQI": 0.20787250384024578,
+        "Nitrogen Dioxide AQI": 22.06152073732719
+    },
+    {
+        "City": "San Jose",
+        "State": "California",
+        "Year": 2015,
+        "Ozone AQI": 32.00874935995904,
+        "Carbon Monoxide AQI": 6.07183819764465,
+        "Sulfur Dioxide AQI": 0.26546338965693805,
+        "Nitrogen Dioxide AQI": 22.029742703533028
+    },
+    {
+        "City": "San Jose",
+        "State": "California",
+        "Year": 2016,
+        "Ozone AQI": 31.32838647880361,
+        "Carbon Monoxide AQI": 5.238369793597825,
+        "Sulfur Dioxide AQI": 0.16624644666913854,
+        "Nitrogen Dioxide AQI": 19.852950809541465
+    },
+    {
+        "City": "San Jose",
+        "State": "California",
+        "Year": 2017,
+        "Ozone AQI": 33.50655527765743,
+        "Carbon Monoxide AQI": 5.597973805366279,
+        "Sulfur Dioxide AQI": 0.2822067518304077,
+        "Nitrogen Dioxide AQI": 21.20629034446239
+    },
+    {
+        "City": "San Jose",
+        "State": "California",
+        "Year": 2018,
+        "Ozone AQI": 30.83601510496672,
+        "Carbon Monoxide AQI": 5.691506656426011,
+        "Sulfur Dioxide AQI": 0.377636968766001,
+        "Nitrogen Dioxide AQI": 21.036258320532514
+    },
+    {
+        "City": "San Jose",
+        "State": "California",
+        "Year": 2019,
+        "Ozone AQI": 32.727270110038,
+        "Carbon Monoxide AQI": 5.011826485630713,
+        "Sulfur Dioxide AQI": 0.2287163328644604,
+        "Nitrogen Dioxide AQI": 19.53065715286238
+    },
+    {
+        "City": "San Jose",
+        "State": "California",
+        "Year": 2020,
+        "Ozone AQI": 33.231093189964156,
+        "Carbon Monoxide AQI": 5.742315535780496,
+        "Sulfur Dioxide AQI": 0.15624459275738475,
+        "Nitrogen Dioxide AQI": 18.09831294030404
+    },
+    {
+        "City": "San Jose",
+        "State": "California",
+        "Year": 2021,
+        "Ozone AQI": 34.61045186891961,
+        "Carbon Monoxide AQI": 4.740572196620584,
+        "Sulfur Dioxide AQI": 0.09111623143881209,
+        "Nitrogen Dioxide AQI": 16.520506912442396
+    },
+    {
+        "City": "San Jose",
+        "State": "California",
+        "Year": 2022,
+        "Ozone AQI": 32.86996785572054,
+        "Carbon Monoxide AQI": 5.102713062524891,
+        "Sulfur Dioxide AQI": 0.12826065312624452,
+        "Nitrogen Dioxide AQI": 18.148360783979065
+    },
+    {
+        "City": "San Jose",
+        "State": "California",
+        "Year": 2023,
+        "Ozone AQI": 32.18539609392144,
+        "Carbon Monoxide AQI": 3.589675224928681,
+        "Sulfur Dioxide AQI": 0.23963133640552997,
+        "Nitrogen Dioxide AQI": 15.159545753785384
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 26.086049314052648,
+        "Carbon Monoxide AQI": 7.609204671857619,
+        "Sulfur Dioxide AQI": 6.489630453590409,
+        "Nitrogen Dioxide AQI": 24.202839574836236
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 27.84899651084301,
+        "Carbon Monoxide AQI": 6.460460815911316,
+        "Sulfur Dioxide AQI": 5.028639371381307,
+        "Nitrogen Dioxide AQI": 24.635986566270216
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 29.305557814523656,
+        "Carbon Monoxide AQI": 7.228202714777667,
+        "Sulfur Dioxide AQI": 4.919328609580033,
+        "Nitrogen Dioxide AQI": 23.662327690933
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 28.581381208397335,
+        "Carbon Monoxide AQI": 7.94791986687148,
+        "Sulfur Dioxide AQI": 5.910778289810548,
+        "Nitrogen Dioxide AQI": 23.89576292882745
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 26.944438264738597,
+        "Carbon Monoxide AQI": 8.979069336299592,
+        "Sulfur Dioxide AQI": 5.946520825608701,
+        "Nitrogen Dioxide AQI": 22.65381905821283
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2005,
+        "Ozone AQI": 25.974379160266256,
+        "Carbon Monoxide AQI": 5.847323745961121,
+        "Sulfur Dioxide AQI": 6.147809956388933,
+        "Nitrogen Dioxide AQI": 20.90691773928704
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 26.761693548387097,
+        "Carbon Monoxide AQI": 6.7495071684587815,
+        "Sulfur Dioxide AQI": 6.3935547875064005,
+        "Nitrogen Dioxide AQI": 22.37884024577573
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 27.27618208944683,
+        "Carbon Monoxide AQI": 5.930306380987694,
+        "Sulfur Dioxide AQI": 5.320518609742748,
+        "Nitrogen Dioxide AQI": 21.48613869908364
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 29.015160010240653,
+        "Carbon Monoxide AQI": 3.776378648233487,
+        "Sulfur Dioxide AQI": 4.857858422939068,
+        "Nitrogen Dioxide AQI": 21.33634536610343
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 25.405376344086022,
+        "Carbon Monoxide AQI": 4.1302611367127495,
+        "Sulfur Dioxide AQI": 4.424116743471582,
+        "Nitrogen Dioxide AQI": 23.95253456221198
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 27.246793394777264,
+        "Carbon Monoxide AQI": 5.159504608294931,
+        "Sulfur Dioxide AQI": 4.330203533026114,
+        "Nitrogen Dioxide AQI": 16.857584485407067
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 28.209062980030723,
+        "Carbon Monoxide AQI": 5.087013568868407,
+        "Sulfur Dioxide AQI": 5.731266001024065,
+        "Nitrogen Dioxide AQI": 18.874212749615975
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 28.867840590073627,
+        "Carbon Monoxide AQI": 4.664741467591857,
+        "Sulfur Dioxide AQI": 3.41184119921606,
+        "Nitrogen Dioxide AQI": 18.320855845118917
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 27.792127496159754,
+        "Carbon Monoxide AQI": 4.749807987711214,
+        "Sulfur Dioxide AQI": 1.478110599078341,
+        "Nitrogen Dioxide AQI": 19.167012288786484
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 26.850985663082437,
+        "Carbon Monoxide AQI": 6.005798771121352,
+        "Sulfur Dioxide AQI": 2.2973758320532514,
+        "Nitrogen Dioxide AQI": 17.212941628264208
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2015,
+        "Ozone AQI": 28.815431387608808,
+        "Carbon Monoxide AQI": 6.496390168970815,
+        "Sulfur Dioxide AQI": 2.043900409626216,
+        "Nitrogen Dioxide AQI": 17.7913082437276
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2016,
+        "Ozone AQI": 27.890193150139385,
+        "Carbon Monoxide AQI": 4.915033851055356,
+        "Sulfur Dioxide AQI": 1.712146555157308,
+        "Nitrogen Dioxide AQI": 15.716168857029073
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2017,
+        "Ozone AQI": 29.087800819252433,
+        "Carbon Monoxide AQI": 5.046198156682028,
+        "Sulfur Dioxide AQI": 1.895378904249872,
+        "Nitrogen Dioxide AQI": 16.569764464925758
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2018,
+        "Ozone AQI": 29.88464541730671,
+        "Carbon Monoxide AQI": 5.8426715309779835,
+        "Sulfur Dioxide AQI": 1.6774513568868408,
+        "Nitrogen Dioxide AQI": 15.527764976958524
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2019,
+        "Ozone AQI": 31.478597692321273,
+        "Carbon Monoxide AQI": 5.288098769355721,
+        "Sulfur Dioxide AQI": 1.4717675724349808,
+        "Nitrogen Dioxide AQI": 14.963988646997544
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2020,
+        "Ozone AQI": 29.457159189222594,
+        "Carbon Monoxide AQI": 6.983611420096403,
+        "Sulfur Dioxide AQI": 1.4088091706834753,
+        "Nitrogen Dioxide AQI": 14.633466197009023
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2021,
+        "Ozone AQI": 30.693401619082934,
+        "Carbon Monoxide AQI": 5.911486748945037,
+        "Sulfur Dioxide AQI": 1.6310031428218303,
+        "Nitrogen Dioxide AQI": 12.89114381941134
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2022,
+        "Ozone AQI": 29.266763825375246,
+        "Carbon Monoxide AQI": 5.348929880937668,
+        "Sulfur Dioxide AQI": 2.4741077191392358,
+        "Nitrogen Dioxide AQI": 13.611894903802579
+    },
+    {
+        "City": "San Pablo",
+        "State": "California",
+        "Year": 2023,
+        "Ozone AQI": 31.510127276717135,
+        "Carbon Monoxide AQI": 4.07422646477946,
+        "Sulfur Dioxide AQI": 2.1074720210664912,
+        "Nitrogen Dioxide AQI": 10.491035769146368
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 22.923791867507106,
+        "Carbon Monoxide AQI": 12.021480657520703,
+        "Sulfur Dioxide AQI": 4.620689655172414,
+        "Nitrogen Dioxide AQI": 22.722512668396984
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 28.26174960714727,
+        "Carbon Monoxide AQI": 9.827623505835408,
+        "Sulfur Dioxide AQI": 3.7937485654254286,
+        "Nitrogen Dioxide AQI": 22.13874432791285
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 30.24934715821813,
+        "Carbon Monoxide AQI": 10.326401689708142,
+        "Sulfur Dioxide AQI": 4.274404761904762,
+        "Nitrogen Dioxide AQI": 22.034498207885306
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 29.705869175627242,
+        "Carbon Monoxide AQI": 8.91388888888889,
+        "Sulfur Dioxide AQI": 3.8196364567332313,
+        "Nitrogen Dioxide AQI": 21.158096518177164
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 28.00745272525028,
+        "Carbon Monoxide AQI": 8.543798665183537,
+        "Sulfur Dioxide AQI": 4.1615066122852555,
+        "Nitrogen Dioxide AQI": 20.529297985415894
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2005,
+        "Ozone AQI": 27.435166006592592,
+        "Carbon Monoxide AQI": 7.791009071264912,
+        "Sulfur Dioxide AQI": 3.560502138449858,
+        "Nitrogen Dioxide AQI": 18.849017460724912
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 28.95950816407806,
+        "Carbon Monoxide AQI": 8.657755874153723,
+        "Sulfur Dioxide AQI": 3.6784846674631617,
+        "Nitrogen Dioxide AQI": 20.93210872162485
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 29.356893241167437,
+        "Carbon Monoxide AQI": 7.628526625704045,
+        "Sulfur Dioxide AQI": 2.8901497695852534,
+        "Nitrogen Dioxide AQI": 19.435752688172045
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 32.080345445556794,
+        "Carbon Monoxide AQI": 6.8752749969101465,
+        "Sulfur Dioxide AQI": 2.8564083549623036,
+        "Nitrogen Dioxide AQI": 19.65526201952787
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 29.369229478962513,
+        "Carbon Monoxide AQI": 6.265329863869908,
+        "Sulfur Dioxide AQI": 2.4543628723272772,
+        "Nitrogen Dioxide AQI": 18.021028656178824
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 30.438195084485404,
+        "Carbon Monoxide AQI": 5.775369943676395,
+        "Sulfur Dioxide AQI": 1.693163082437276,
+        "Nitrogen Dioxide AQI": 18.14179979518689
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 29.63602790578597,
+        "Carbon Monoxide AQI": 7.1881592421915,
+        "Sulfur Dioxide AQI": 1.363978494623656,
+        "Nitrogen Dioxide AQI": 18.8067140296979
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 30.45801198862934,
+        "Carbon Monoxide AQI": 6.447716598689902,
+        "Sulfur Dioxide AQI": 1.0449789890001238,
+        "Nitrogen Dioxide AQI": 17.388833271536274
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 30.198079877112136,
+        "Carbon Monoxide AQI": 6.633032514080901,
+        "Sulfur Dioxide AQI": 0.8955069124423963,
+        "Nitrogen Dioxide AQI": 18.730389144905274
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 31.455331541218637,
+        "Carbon Monoxide AQI": 5.637032770097286,
+        "Sulfur Dioxide AQI": 1.1939132104454684,
+        "Nitrogen Dioxide AQI": 15.995660522273425
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2015,
+        "Ozone AQI": 31.614120186450553,
+        "Carbon Monoxide AQI": 6.510051291558522,
+        "Sulfur Dioxide AQI": 0.8862761975387113,
+        "Nitrogen Dioxide AQI": 15.984055476102194
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2016,
+        "Ozone AQI": 30.098912371771103,
+        "Carbon Monoxide AQI": 5.967436040044494,
+        "Sulfur Dioxide AQI": 1.028071313805463,
+        "Nitrogen Dioxide AQI": 14.495182919293041
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2017,
+        "Ozone AQI": 31.83185704574748,
+        "Carbon Monoxide AQI": 6.395100376079242,
+        "Sulfur Dioxide AQI": 1.1515921570704661,
+        "Nitrogen Dioxide AQI": 16.540213552977736
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2018,
+        "Ozone AQI": 30.22542242703533,
+        "Carbon Monoxide AQI": 6.125518433179724,
+        "Sulfur Dioxide AQI": 0.8971710189452126,
+        "Nitrogen Dioxide AQI": 15.614100102406555
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2019,
+        "Ozone AQI": 32.19973934883557,
+        "Carbon Monoxide AQI": 5.3449648639581895,
+        "Sulfur Dioxide AQI": 0.7076851263308438,
+        "Nitrogen Dioxide AQI": 15.090123505835408
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2020,
+        "Ozone AQI": 32.10046181417149,
+        "Carbon Monoxide AQI": 6.501434167118261,
+        "Sulfur Dioxide AQI": 0.6662428814542274,
+        "Nitrogen Dioxide AQI": 14.850720648774042
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2021,
+        "Ozone AQI": 30.9878904249872,
+        "Carbon Monoxide AQI": 4.500069240795047,
+        "Sulfur Dioxide AQI": 1.0902923241632918,
+        "Nitrogen Dioxide AQI": 12.559215426150908
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2022,
+        "Ozone AQI": 28.687954770514096,
+        "Carbon Monoxide AQI": 6.396702877932022,
+        "Sulfur Dioxide AQI": 1.693301272430861,
+        "Nitrogen Dioxide AQI": 13.4430150469801
+    },
+    {
+        "City": "Vallejo",
+        "State": "California",
+        "Year": 2023,
+        "Ozone AQI": 28.912908988945855,
+        "Carbon Monoxide AQI": 4.655843759190836,
+        "Sulfur Dioxide AQI": 0.6009813144787677,
+        "Nitrogen Dioxide AQI": 10.600413791075932
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2000,
+        "Ozone AQI": 57.40902046908721,
+        "Carbon Monoxide AQI": 7.5889485468184015,
+        "Sulfur Dioxide AQI": 4.647114315050911,
+        "Nitrogen Dioxide AQI": 42.0821306675033
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2001,
+        "Ozone AQI": 55.94235364396655,
+        "Carbon Monoxide AQI": 7.920459976105136,
+        "Sulfur Dioxide AQI": 4.647729988052569,
+        "Nitrogen Dioxide AQI": 41.61827956989247
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2002,
+        "Ozone AQI": 61.94038658474142,
+        "Carbon Monoxide AQI": 7.682682036477921,
+        "Sulfur Dioxide AQI": 4.644389709906951,
+        "Nitrogen Dioxide AQI": 42.076549340537106
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2003,
+        "Ozone AQI": 60.331058726220014,
+        "Carbon Monoxide AQI": 6.777465142384497,
+        "Sulfur Dioxide AQI": 3.994201228878648,
+        "Nitrogen Dioxide AQI": 40.439119795974634
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2004,
+        "Ozone AQI": 53.263936781609196,
+        "Carbon Monoxide AQI": 6.579013277539418,
+        "Sulfur Dioxide AQI": 3.516449494146936,
+        "Nitrogen Dioxide AQI": 39.80636509702138
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2005,
+        "Ozone AQI": 57.967076292882744,
+        "Carbon Monoxide AQI": 6.130426223140351,
+        "Sulfur Dioxide AQI": 3.480891687412822,
+        "Nitrogen Dioxide AQI": 37.1368619453714
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2006,
+        "Ozone AQI": 55.30876216077829,
+        "Carbon Monoxide AQI": 6.032648489503328,
+        "Sulfur Dioxide AQI": 3.8853814644137223,
+        "Nitrogen Dioxide AQI": 37.98405017921147
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2007,
+        "Ozone AQI": 55.402054531490016,
+        "Carbon Monoxide AQI": 4.6300499231950845,
+        "Sulfur Dioxide AQI": 2.980561955965182,
+        "Nitrogen Dioxide AQI": 35.470506912442396
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2008,
+        "Ozone AQI": 59.38776521237589,
+        "Carbon Monoxide AQI": 4.132738021670169,
+        "Sulfur Dioxide AQI": 2.204990112470646,
+        "Nitrogen Dioxide AQI": 34.846466238207064
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2009,
+        "Ozone AQI": 58.84010386319897,
+        "Carbon Monoxide AQI": 4.9653406783551395,
+        "Sulfur Dioxide AQI": 2.3059523809523808,
+        "Nitrogen Dioxide AQI": 31.802816180235535
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2010,
+        "Ozone AQI": 55.646515557757944,
+        "Carbon Monoxide AQI": 4.938893204228592,
+        "Sulfur Dioxide AQI": 3.0728844787627203,
+        "Nitrogen Dioxide AQI": 31.84722946479101
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2011,
+        "Ozone AQI": 47.5352724411404,
+        "Carbon Monoxide AQI": 5.15508151858901,
+        "Sulfur Dioxide AQI": 3.023956594816701,
+        "Nitrogen Dioxide AQI": 32.63593994384497
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2012,
+        "Ozone AQI": 60.896958328409944,
+        "Carbon Monoxide AQI": 3.8746080979951945,
+        "Sulfur Dioxide AQI": 1.9256420103194296,
+        "Nitrogen Dioxide AQI": 28.280849482059157
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2013,
+        "Ozone AQI": 63.874020737327186,
+        "Carbon Monoxide AQI": 3.9494047619047614,
+        "Sulfur Dioxide AQI": 1.580715565796211,
+        "Nitrogen Dioxide AQI": 30.60705325140809
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2014,
+        "Ozone AQI": 58.25411546338966,
+        "Carbon Monoxide AQI": 5.039612135176651,
+        "Sulfur Dioxide AQI": 1.4063364055299539,
+        "Nitrogen Dioxide AQI": 28.828571428571426
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2015,
+        "Ozone AQI": 58.12455837173579,
+        "Carbon Monoxide AQI": 6.029630696364567,
+        "Sulfur Dioxide AQI": 0.4229230670762929,
+        "Nitrogen Dioxide AQI": 23.92646249359959
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2016,
+        "Ozone AQI": 54.28501780834281,
+        "Carbon Monoxide AQI": 6.706668677523331,
+        "Sulfur Dioxide AQI": 0.7672665003050616,
+        "Nitrogen Dioxide AQI": 25.00458491504376
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2017,
+        "Ozone AQI": 50.55712365591398,
+        "Carbon Monoxide AQI": 5.647094214029697,
+        "Sulfur Dioxide AQI": 0.8767089093701997,
+        "Nitrogen Dioxide AQI": 27.642204301075267
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2018,
+        "Ozone AQI": 60.125222841022804,
+        "Carbon Monoxide AQI": 4.525153575876602,
+        "Sulfur Dioxide AQI": 1.4829857343112813,
+        "Nitrogen Dioxide AQI": 25.386743621736205
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2019,
+        "Ozone AQI": 55.8232486151841,
+        "Carbon Monoxide AQI": 4.895856956663408,
+        "Sulfur Dioxide AQI": 2.1553323558162267,
+        "Nitrogen Dioxide AQI": 25.063634734441184
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2020,
+        "Ozone AQI": 57.32294822730724,
+        "Carbon Monoxide AQI": 5.521456159401098,
+        "Sulfur Dioxide AQI": 1.1374345613291663,
+        "Nitrogen Dioxide AQI": 27.340400820135248
+    },
+    {
+        "City": "Victorville",
+        "State": "California",
+        "Year": 2021,
+        "Ozone AQI": 58.39172493246465,
+        "Carbon Monoxide AQI": 4.013181091865742,
+        "Sulfur Dioxide AQI": 0.8275665642601128,
+        "Nitrogen Dioxide AQI": 27.7069795363455
+    }
+]
