@@ -9,6 +9,7 @@ According to the World Health Organization, air pollution is a global public hea
 The project focuses on the general air quality of the United States, the focus on California and the gasses that affect cities across the state, and lastly the analysis of California's trend over the years with the impact of California's Reduction Plan. In this repository we have included: 
 
 - waterAir_quality.ipynb File: Shares the codes created to filter/clean our datasets, along with merging the three datasets collected. This has allowed our group to create the visuals and to give us information on trends over the years and the concentration of gasses in the state of California.
+- Average of Air Quality in the US IPYNB File: Shares code on how we defined what makes the top 5 states with poorest and top 5 states with the highest air quality based on average.  
 - CSVs: Of the original data and ones created
 - Air Quality Schema and Pictures of Tables/ERD: Created using PostGres 
 - USA Visual Json File : Code created by the CSV created through the IPYNB file
