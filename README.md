@@ -15,6 +15,50 @@ The project focuses on the general air quality of the United States, the focus o
 - California Dashboard JSON File: Code created by the CSV created through the IPYNB file
 - California's Air Quality Improvement Over Time visual
 - Air Pollution: California's Journey in Air Quality
+
+# Instructions for Using and Interacting with the Project
+
+## JS_Visualizations Folder
+This folder contains two visualizations that utilize different datasets.
+
+---
+
+### US_Map_Markers Folder
+- **Data**: This visualization analyzes data from `waterAir_quality.json` and converts it into `geojson` format using Python for use in JavaScript.
+- **JS**: It includes a street map and a topography map, which can be toggled to demonstrate the impact of topography on pollution, especially in outliers like California's Central Valley cities. Utilizes 
+- **Features**:
+  - Marker size reflects population.
+  - Marker color represents air quality, ranging from 0 (poor air quality) to 100 (excellent air quality).
+- **Dataset**: The cities are mapped from the `waterAir_quality.json` dataset ([Kaggle dataset link](https://www.kaggle.com/datasets/patricklford/water-and-air-quality)).
+- **Interaction**:
+  - Open `index.html` with Live Server.
+  - Hover over cities and click on markers to see tooltips containing the city name, population, and air quality.
+  - Toggle between street and topography views in the top-right corner. You can also toggle population marker sizes on or off.
+
+---
+
+### California_Dashboard Folder
+- **Data**: This dashboard analyzes data from `pollution_2000_2023.csv`, filtering for California, and outputs a `California_AQI.json` file.
+- **JS**: An interactive dashboard where users can select a city and year from dropdown menus. A metadata panel displays relevant information based on the selection.
+- **Features**:
+  - Bar graph: Shows air quality data for the selected California city and year.
+  - Line graph: Displays the air quality trend over time for the selected city.
+- **Interaction**: Open `index.html` with Live Server.
+
+---
+
+### CA_City_comparison Folder
+- **Data**: This visualization uses data from `California_AQI.json` to compare the Ozone Air Quality Index (AQI) across different cities in California for a specific year(2020).
+- **JS**: The `app.js` script fetches the data, filters it by year, and creates a bar chart using Chart.js to visualize the Ozone AQI for multiple cities.
+- **Features**:
+  - Bar chart displays Ozone AQI values for selected cities.
+  - The chart is generated dynamically based on the data filtered for the year 2020 (or any other specified year).
+  - The chart is fully interactive, with tooltips displaying detailed AQI information when hovering over the bars.
+- **Dataset**: The cities and their corresponding AQI data are sourced from the `California_AQI.json` dataset.
+- **Interaction**:
+  - Open `index.html` with Live Server.
+  - The chart will automatically display a comparison of Ozone AQI for different cities in the selected year.
+  - Hover over the bars to see detailed Ozone AQI values for each city.
   
 
 
@@ -37,7 +81,7 @@ cd ucv-data-proj3-group-2
 * Libraries:
 
   * Data Processing: Pandas, NumPy
-  * Visualization: Matplotlib, Seaborn
+  * Visualization: Matplotlib, Seaborn, D3.js, Leaflet, Plotly, Chart.js
 
 
 ## Data
@@ -51,6 +95,11 @@ All datasets used in this project were sourced from Kaggle:
 - "pollution_2000_2023.csv": https://www.kaggle.com/datasets/guslovesmath/us-pollution-data-200-to-2022
 
 
+### References for External Code Support
+- **JSON to GeoJSON Conversion**: Assistance from AI and Google was used to convert `json` data into `geojson` format.
+- **Chart.js Implementation**: Support from AI was utilized to help implement the `Chart.js` visualization.
+
+
 ## ucv-data-proj3-group-2
 
 UCBerkeley-Ext Data Analytics Bootcamp Project 3 Group 2
@@ -60,3 +109,4 @@ UCBerkeley-Ext Data Analytics Bootcamp Project 3 Group 2
 - Caroline M
 - David H
 - Yul L
+
